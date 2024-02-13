@@ -1,0 +1,101 @@
+Compound Score: 0.9993
+Polarity Score: 0.49397589766294103
+Positive Score: 62
+Negative Score: 21
+Subjectivity Score: 0.07081911256756047
+Average Sentence Length: 14.65
+Average Words Per Sentence: 14.65
+Complex Word Count: 159
+Percentage of Complex Words: 13.56655290102389
+Fog Index: 11.286621160409556
+Cleaned Word Count: 601
+Syllable Count Per Word: [1, 3, 2, 3, 2, 2, 3, 3, 2, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 2, 3, 1, 1, 3, 1, 1, 4, 1, 1, 1, 3, 2, 2, 1, 1, 3, 2, 1, 1, 1, 1, 2, 2, 2, 2, 1, 1, 1, 2, 4, 3, 1, 2, 2, 1, 3, 2, 4, 3, 2, 1, 1, 2, 3, 2, 4, 3, 2, 2, 2, 1, 1, 1, 2, 3, 1, 1, 1, 1, 2, 1, 2, 2, 2, 1, 3, 2, 3, 3, 1, 1, 1, 1, 1, 3, 2, 2, 3, 1, 3, 1, 2, 2, 3, 3, 3, 2, 2, 4, 2, 3, 1, 1, 3, 3, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 3, 1, 2, 1, 3, 3, 3, 1, 3, 1, 2, 1, 1, 1, 1, 4, 2, 1, 1, 3, 1, 1, 1, 2, 1, 2, 1, 1, 3, 2, 2, 3, 4, 2, 1, 1, 3, 1, 1, 1, 2, 3, 3, 1, 2, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 2, 1, 2, 1, 2, 2, 1, 2, 2, 2, 2, 2, 1, 1, 3, 2, 1, 2, 2, 2, 1, 2, 2, 3, 2, 2, 1, 3, 1, 1, 1, 1, 2, 2, 3, 1, 1, 1, 3, 2, 3, 3, 1, 1, 1, 2, 2, 1, 1, 1, 2, 2, 2, 2, 3, 3, 2, 1, 1, 2, 2, 2, 1, 1, 1, 2, 3, 3, 3, 1, 3, 1, 1, 1, 1, 1, 1, 2, 3, 1, 2, 2, 1, 2, 3, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 2, 2, 1, 1, 4, 2, 1, 2, 1, 1, 2, 2, 2, 3, 1, 1, 2, 2, 1, 3, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 3, 2, 1, 3, 1, 1, 2, 1, 4, 3, 3, 2, 3, 1, 1, 1, 2, 2, 1, 1, 4, 3, 1, 1, 3, 1, 2, 3, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 1, 1, 1, 3, 2, 1, 1, 2, 2, 3, 1, 1, 3, 2, 1, 1, 3, 2, 2, 2, 2, 2, 3, 2, 1, 2, 1, 2, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 3, 1, 1, 2, 2, 1, 3, 1, 3, 2, 3, 2, 2, 2, 1, 2, 1, 3, 3, 3, 1, 2, 1, 3, 3, 2, 1, 2, 1, 1, 3, 2, 3, 2, 2, 1, 3, 1, 2, 1, 1, 2, 2, 2, 1, 2, 3, 3, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 1, 3, 3, 3, 1, 1, 2, 2, 1, 1, 3, 2, 3, 2, 5, 2, 1, 2, 3, 4, 1, 2, 3, 2, 3, 4, 4, 1, 2, 2, 1, 5, 1, 1, 2, 1, 3, 2, 3, 3, 5, 4, 3, 2, 2, 2, 2, 1, 3, 2, 3, 5, 4, 1, 3, 3, 3, 2, 3, 1, 1, 3, 2, 1, 1, 1, 2, 3, 1, 1, 1, 1, 3, 2, 1, 5, 2, 3, 4, 4, 3, 2, 3, 3, 2, 3, 1, 1, 3, 5, 1, 5, 2, 1, 1, 3, 3, 1, 4, 3, 2, 5, 1, 1, 2, 3, 1, 2, 2, 1, 1, 3, 2, 1, 2, 3, 3, 2, 2, 2, 2, 3, 2, 4, 4, 2, 2, 2, 5, 2, 2, 4, 4, 2, 4, 5, 1, 3, 2, 3, 4, 1, 5, 1, 2, 2, 2, 2, 3, 3, 1]
+Personal Pronoun Count: 5
+Average Word Length: 3.1749146757679183
+
+Positive Words:
+perfection
+perfection
+certain
+certain
+perfect.
+advantage
+perfected
+easy
+support
+top.
+certain
+ready.
+certain
+well.
+well
+hand
+good
+satisfied
+Perfect.
+best
+satisfied
+better
+better.
+well
+perfect.
+perfect
+satisfied
+happy
+happy
+good
+perfect.
+perfect
+satisfied
+wishes
+perfect
+perfection
+perfect
+better
+satisfied
+satisfaction
+creations
+perfect
+certain
+satisfaction
+perfection.
+satisfied,
+perfect.
+greatest
+Satisfaction
+perfection
+perfection
+perfection
+attractive
+easy
+support
+responsible
+satisfaction.
+excitement
+entertainment,
+greatest
+play
+Perfection
+
+Negative Words:
+no
+lack
+tricks
+cut
+unstable.
+no
+unhappy,
+lied.
+dissatisfied.
+dissatisfaction
+waste
+enemy
+lies.
+enemy
+dissatisfaction.
+restless.
+lose
+obstacle
+enemy.
+enemy
+dissatisfaction.

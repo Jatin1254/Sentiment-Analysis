@@ -1,0 +1,43 @@
+Compound Score: 0.8666
+Polarity Score: 0.19999999200000032
+Positive Score: 15
+Negative Score: 10
+Subjectivity Score: 0.06112469422707899
+Average Sentence Length: 14.10344827586207
+Average Words Per Sentence: 14.10344827586207
+Complex Word Count: 77
+Percentage of Complex Words: 18.82640586797066
+Fog Index: 13.171941657533091
+Cleaned Word Count: 209
+Syllable Count Per Word: [2, 1, 4, 2, 1, 1, 2, 1, 2, 1, 4, 2, 4, 3, 2, 1, 2, 1, 3, 1, 1, 2, 2, 1, 1, 2, 1, 2, 2, 2, 4, 4, 4, 2, 3, 3, 2, 1, 1, 2, 4, 4, 4, 2, 2, 5, 2, 1, 2, 1, 2, 1, 2, 1, 1, 2, 3, 2, 2, 2, 5, 4, 4, 2, 2, 2, 3, 4, 3, 4, 4, 2, 3, 2, 5, 0, 3, 3, 1, 3, 2, 2, 2, 3, 3, 4, 4, 2, 1, 3, 3, 2, 4, 3, 2, 1, 2, 3, 4, 2, 2, 2, 4, 1, 3, 4, 2, 2, 4, 3, 1, 3, 1, 5, 2, 4, 5, 1, 3, 2, 1, 1, 5, 2, 4, 2, 1, 2, 2, 2, 2, 1, 1, 1, 2, 2, 3, 5, 4, 1, 3, 1, 1, 2, 5, 1, 2, 2, 3, 3, 2, 1, 3, 4, 2, 4, 2, 2, 2, 1, 2, 2, 3, 1, 5, 2, 4, 2, 4, 1, 2, 2, 1, 2, 3, 5, 2, 1, 2, 1, 1, 3, 1, 2, 2, 2, 3, 3, 2, 4, 2, 1, 2, 1, 1, 1, 3, 1, 1, 1, 2, 1, 2, 7, 2, 3, 3, 3, 1]
+Personal Pronoun Count: 5
+Average Word Length: 3.5158924205378974
+
+Positive Words:
+clear
+respect
+well.
+competitive
+dynamic
+solution
+plays
+important
+#success
+attract
+interesting
+attractive
+ready
+play
+positive
+
+Negative Words:
+failure
+leave.
+no
+Wrong
+wrong
+loss
+low
+wrong
+failed.
+negative

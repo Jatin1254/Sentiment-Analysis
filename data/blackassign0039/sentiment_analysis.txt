@@ -1,0 +1,158 @@
+Compound Score: 0.9905
+Polarity Score: 0.09999999928571429
+Positive Score: 77
+Negative Score: 63
+Subjectivity Score: 0.07629427788757805
+Average Sentence Length: 18.168316831683168
+Average Words Per Sentence: 18.168316831683168
+Complex Word Count: 383
+Percentage of Complex Words: 20.87193460490463
+Fog Index: 15.61610057463512
+Cleaned Word Count: 1085
+Syllable Count Per Word: [3, 4, 1, 3, 4, 2, 4, 1, 3, 1, 1, 1, 2, 3, 4, 3, 4, 2, 1, 4, 2, 4, 2, 4, 4, 4, 2, 2, 1, 2, 2, 3, 4, 1, 2, 2, 1, 3, 3, 2, 2, 2, 3, 1, 4, 1, 2, 1, 1, 3, 2, 2, 2, 4, 3, 2, 2, 2, 1, 5, 1, 2, 2, 1, 4, 2, 3, 4, 1, 2, 2, 1, 3, 3, 2, 2, 1, 1, 3, 3, 2, 2, 1, 2, 2, 2, 2, 2, 1, 3, 2, 2, 2, 2, 3, 2, 2, 2, 2, 1, 1, 4, 2, 1, 3, 2, 2, 1, 1, 3, 2, 3, 2, 3, 2, 2, 2, 2, 1, 2, 3, 4, 3, 3, 1, 4, 6, 2, 1, 1, 5, 3, 2, 2, 4, 4, 1, 3, 2, 3, 2, 1, 2, 3, 2, 1, 2, 1, 2, 4, 2, 3, 1, 2, 2, 4, 2, 3, 2, 2, 2, 1, 2, 4, 1, 2, 1, 3, 4, 1, 2, 2, 3, 3, 3, 1, 3, 3, 1, 1, 4, 1, 3, 4, 1, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 2, 1, 3, 1, 1, 1, 1, 1, 4, 3, 1, 2, 1, 1, 2, 2, 3, 2, 2, 1, 2, 2, 2, 2, 3, 4, 2, 2, 3, 4, 1, 2, 2, 1, 2, 3, 2, 3, 3, 4, 3, 1, 3, 2, 3, 2, 2, 4, 2, 3, 3, 2, 1, 3, 2, 2, 2, 1, 2, 2, 3, 2, 1, 2, 4, 2, 3, 2, 4, 3, 3, 1, 3, 4, 3, 2, 1, 3, 2, 2, 3, 3, 2, 3, 2, 2, 2, 3, 3, 3, 1, 2, 2, 2, 3, 2, 3, 2, 2, 4, 2, 2, 2, 2, 3, 3, 2, 3, 3, 2, 4, 1, 2, 1, 1, 2, 2, 3, 1, 1, 4, 3, 2, 3, 1, 2, 2, 2, 3, 2, 1, 3, 2, 2, 4, 2, 3, 3, 2, 1, 3, 2, 2, 2, 3, 3, 1, 3, 1, 2, 1, 2, 2, 3, 1, 4, 2, 1, 3, 3, 2, 3, 2, 2, 1, 2, 4, 3, 1, 1, 3, 1, 2, 4, 1, 2, 2, 2, 3, 3, 1, 2, 5, 2, 1, 2, 2, 1, 1, 1, 2, 1, 3, 1, 2, 2, 3, 3, 2, 3, 3, 2, 4, 4, 2, 3, 3, 1, 2, 2, 1, 1, 4, 2, 3, 2, 3, 4, 2, 2, 3, 3, 4, 1, 2, 2, 3, 1, 3, 1, 2, 4, 2, 1, 3, 2, 4, 2, 4, 2, 4, 3, 1, 2, 4, 3, 1, 2, 4, 2, 1, 3, 1, 3, 3, 3, 1, 1, 4, 2, 2, 6, 2, 2, 3, 2, 4, 4, 2, 1, 5, 2, 5, 2, 2, 2, 6, 2, 2, 2, 1, 1, 2, 2, 1, 3, 2, 4, 3, 4, 2, 2, 3, 4, 3, 2, 2, 2, 6, 2, 2, 2, 1, 1, 1, 4, 3, 1, 4, 2, 2, 5, 2, 4, 3, 1, 1, 3, 2, 4, 3, 2, 4, 2, 3, 2, 2, 2, 5, 4, 2, 4, 2, 3, 2, 2, 1, 3, 3, 1, 1, 2, 2, 1, 1, 5, 1, 2, 4, 2, 2, 2, 2, 3, 2, 2, 2, 1, 1, 2, 3, 2, 1, 2, 2, 1, 3, 2, 1, 2, 2, 2, 1, 1, 2, 1, 4, 1, 2, 2, 2, 2, 1, 1, 3, 3, 2, 3, 1, 1, 4, 2, 1, 1, 3, 2, 3, 2, 2, 2, 3, 3, 2, 3, 3, 2, 1, 1, 2, 2, 3, 3, 3, 1, 2, 2, 1, 2, 2, 2, 2, 4, 1, 1, 3, 1, 2, 1, 3, 3, 2, 4, 3, 2, 2, 3, 2, 3, 2, 3, 5, 2, 2, 3, 2, 3, 2, 3, 2, 2, 2, 3, 2, 3, 3, 5, 3, 1, 3, 1, 2, 2, 2, 2, 2, 4, 1, 1, 1, 2, 2, 3, 5, 4, 4, 3, 3, 3, 1, 3, 1, 1, 3, 5, 1, 2, 1, 2, 3, 1, 2, 3, 5, 2, 2, 2, 2, 3, 4, 4, 1, 2, 2, 3, 4, 3, 1, 4, 2, 1, 2, 2, 3, 4, 1, 1, 3, 2, 2, 1, 2, 2, 5, 2, 1, 2, 1, 5, 2, 2, 4, 4, 2, 4, 1, 3, 3, 1, 4, 2, 2, 1, 2, 3, 2, 2, 3, 1, 2, 3, 1, 1, 1, 2, 3, 1, 2, 1, 2, 5, 2, 1, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 3, 2, 4, 2, 3, 1, 3, 2, 4, 3, 3, 3, 2, 2, 2, 1, 2, 1, 2, 1, 1, 3, 3, 4, 2, 3, 2, 2, 3, 2, 3, 2, 2, 2, 2, 2, 1, 3, 1, 1, 1, 3, 2, 1, 3, 3, 1, 2, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 2, 1, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 3, 1, 2, 3, 7, 2, 5, 2, 1, 1, 2, 2, 2, 2, 2, 1, 1, 1, 2, 1, 5, 2, 1, 4, 3, 3, 1, 1, 2, 1, 2, 4, 2, 2, 3, 1, 2, 1, 2, 3, 3, 3, 2, 2, 2, 4, 1, 3, 2, 3, 3, 3, 1, 1, 3, 1, 2, 3, 3, 2, 2, 1, 2, 3, 4, 4, 1, 1, 1, 2, 1, 2, 1, 2, 1, 2, 3, 3, 3, 2, 2, 2, 4, 1, 3, 2, 3, 3, 2, 2, 3, 1, 1, 1, 3, 2, 1, 2, 2, 2, 2, 1, 3, 2, 2, 2, 3, 2, 3, 2, 2, 3, 2, 2, 3, 3, 2, 4, 3, 4, 3, 2, 3, 1, 2, 3, 4, 2, 2, 1, 2, 1, 4, 2, 1, 1, 1, 2, 3, 4, 1, 3, 4, 1, 2, 2, 1, 2, 1, 3, 3, 3, 1, 2, 2, 1, 2, 1, 2, 4, 1, 2, 2, 4, 2, 2, 1, 1, 2, 1, 3, 2, 1, 2, 3, 3, 2, 1, 1, 2, 1, 2, 1, 3, 2, 2, 1, 2, 1, 2, 2, 1, 2, 1, 3, 1, 1, 2, 2, 2, 2, 1, 2, 1, 2, 3, 1, 4, 1, 2, 2, 2, 2, 3, 3, 2, 3, 2, 3, 1, 2, 1, 3, 2, 1, 2, 3, 3, 2, 1, 1, 2, 1, 2, 4, 2, 2, 1, 2, 1, 2, 2, 1, 2, 1, 2, 2, 2]
+Personal Pronoun Count: 0
+Average Word Length: 3.96566757493188
+
+Positive Words:
+improvements
+kind
+easy
+protect
+recommend
+interesting
+useful
+creates
+important
+restore
+security
+ideal
+solution
+easily
+guarantee
+adequate
+cleverly
+friend
+useful
+security
+consent.
+freeware,
+freeware
+best
+good
+cleverly
+friend
+useful
+protect
+clean.
+honest
+truth.
+security
+protect
+important
+best
+ensure
+security
+valuable
+recommended
+secure
+prevents
+free
+want
+share
+sure
+secure,
+protect
+commit
+safe,
+like
+better
+recommends
+Privilege
+security
+creating
+security
+recommend
+sentence.
+stronger
+advantage
+easier
+excellent
+easily
+sharing
+share
+sure
+share
+sharing
+creating
+easily
+truly
+determined
+ensure
+Luckily,
+secure
+create
+
+Negative Words:
+restricted
+geeks;
+geeks
+hard
+demanding
+lost,
+stolen,
+lose
+disaster
+problem
+lose.
+disaster
+sneaky:
+disguised
+serious
+damage
+avoid
+infected
+avoid
+suspicious
+sneaky:
+disguised
+cautious
+hard
+hard
+Destroy
+pain
+evil,
+critical
+threats.
+Failing
+risk.
+risks.
+risks.
+hide
+attacks.
+blocking
+dangerous
+blocking
+dangerous
+Geek
+vulnerable
+risks
+exploits.
+damage
+hard
+hard
+attackers
+stolen,
+difficult
+criminals
+lost
+stolen.
+stolen
+steal
+stolen,
+stuck
+leave
+thieves.
+no
+tricks,
+criminal
+forget

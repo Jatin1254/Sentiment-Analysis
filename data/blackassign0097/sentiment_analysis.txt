@@ -1,0 +1,93 @@
+Compound Score: -0.5497
+Polarity Score: 0.03999999946666667
+Positive Score: 39
+Negative Score: 36
+Subjectivity Score: 0.0702247190353701
+Average Sentence Length: 27.384615384615383
+Average Words Per Sentence: 27.384615384615383
+Complex Word Count: 151
+Percentage of Complex Words: 14.138576779026218
+Fog Index: 16.609276865456643
+Cleaned Word Count: 522
+Syllable Count Per Word: [2, 1, 1, 1, 1, 4, 1, 2, 2, 1, 3, 2, 3, 4, 2, 2, 2, 2, 1, 2, 2, 2, 3, 1, 3, 3, 2, 2, 1, 2, 2, 2, 1, 1, 2, 2, 2, 1, 6, 4, 2, 3, 1, 2, 3, 3, 2, 2, 1, 4, 4, 2, 1, 3, 3, 2, 1, 2, 2, 1, 2, 2, 1, 2, 1, 3, 3, 1, 1, 2, 3, 1, 3, 2, 2, 1, 2, 1, 2, 3, 2, 3, 3, 2, 1, 3, 4, 1, 3, 3, 3, 2, 2, 3, 3, 1, 1, 3, 1, 3, 2, 1, 2, 1, 2, 2, 1, 1, 1, 2, 1, 2, 3, 2, 1, 3, 5, 1, 3, 1, 1, 1, 2, 2, 2, 2, 1, 1, 1, 1, 2, 2, 1, 1, 3, 5, 1, 1, 1, 2, 1, 1, 1, 2, 3, 2, 2, 1, 2, 2, 2, 2, 1, 2, 2, 1, 2, 1, 1, 3, 1, 1, 2, 2, 2, 1, 4, 4, 2, 5, 1, 2, 2, 1, 2, 2, 2, 4, 1, 1, 3, 2, 2, 1, 3, 2, 1, 2, 1, 4, 2, 1, 3, 2, 2, 1, 2, 1, 2, 3, 2, 1, 3, 1, 1, 2, 4, 4, 2, 1, 2, 3, 2, 2, 1, 2, 1, 2, 3, 2, 1, 2, 2, 1, 3, 2, 2, 1, 2, 1, 2, 1, 3, 1, 4, 1, 3, 2, 3, 2, 3, 1, 2, 5, 4, 3, 2, 2, 1, 2, 4, 2, 2, 3, 2, 1, 2, 3, 1, 3, 1, 1, 4, 1, 2, 2, 1, 2, 2, 3, 1, 1, 2, 1, 1, 1, 2, 1, 1, 4, 1, 1, 1, 2, 3, 1, 1, 3, 1, 4, 2, 2, 1, 2, 1, 1, 1, 2, 2, 3, 3, 3, 1, 2, 2, 3, 2, 2, 1, 1, 1, 1, 1, 1, 3, 2, 1, 2, 2, 2, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 2, 1, 3, 2, 1, 3, 4, 5, 1, 1, 2, 1, 3, 1, 3, 5, 2, 3, 3, 2, 2, 2, 3, 3, 1, 2, 3, 3, 2, 1, 1, 1, 2, 2, 1, 1, 1, 1, 2, 2, 3, 4, 2, 4, 2, 2, 3, 1, 1, 1, 2, 4, 1, 3, 1, 3, 3, 3, 1, 3, 2, 2, 1, 3, 3, 3, 2, 3, 2, 2, 3, 1, 1, 4, 1, 1, 2, 2, 1, 3, 2, 2, 3, 2, 3, 1, 2, 3, 2, 1, 1, 2, 1, 2, 2, 3, 2, 3, 1, 4, 2, 3, 3, 1, 3, 1, 3, 1, 3, 2, 2, 1, 3, 2, 1, 5, 1, 5, 4, 2, 3, 3, 2, 3, 1, 2, 3, 1, 4, 4, 2, 3, 2, 1, 2, 1, 2, 2, 2, 2, 1, 3, 2, 2, 1, 1, 2, 2, 3, 2, 3, 3, 2, 4, 2, 3, 1, 2, 2, 1, 4, 3, 2, 2, 1, 4, 3, 3, 2, 2, 3, 1, 1, 1, 2, 2, 3, 1, 1, 3, 2, 2, 1, 4, 4, 1, 1, 2, 3, 3, 1, 1]
+Personal Pronoun Count: 5
+Average Word Length: 3.143258426966292
+
+Positive Words:
+great
+improving
+Well,
+adequate
+extends
+well
+restored
+straight
+support.
+definitely
+well
+benefits
+top
+play
+important
+better
+beneficial
+better,
+huge
+help
+better
+impression
+pretending;
+interest
+best.
+definitely
+great
+better
+kind
+well
+better
+number
+benefits
+well
+treat
+accepting
+important
+important
+expand
+
+Negative Words:
+banned,
+sorrow
+despise
+torture
+destruction.
+problem
+lack
+problems
+fail
+limited
+accident,
+problem
+drop
+unfair
+lower
+problem
+hatred
+losses
+unethical
+hated
+hard
+lose
+lack
+ignorance
+affected
+shortage
+exploit
+losses
+affected
+limited
+severe
+defeat
+rejection
+shoot
+rejection
+unfair

@@ -1,0 +1,88 @@
+Compound Score: 0.9933
+Polarity Score: 0.2857142816326531
+Positive Score: 45
+Negative Score: 25
+Subjectivity Score: 0.06666666660317459
+Average Sentence Length: 22.340425531914892
+Average Words Per Sentence: 22.340425531914892
+Complex Word Count: 181
+Percentage of Complex Words: 17.238095238095237
+Fog Index: 15.831408308004052
+Cleaned Word Count: 604
+Syllable Count Per Word: [2, 4, 1, 2, 1, 1, 1, 3, 1, 4, 1, 4, 2, 3, 4, 2, 4, 3, 1, 1, 2, 1, 3, 2, 1, 3, 2, 2, 1, 1, 2, 3, 3, 3, 3, 2, 3, 3, 2, 2, 2, 4, 2, 3, 3, 2, 2, 2, 1, 3, 2, 4, 2, 2, 2, 4, 1, 2, 1, 1, 2, 2, 3, 2, 3, 2, 2, 3, 2, 5, 4, 2, 2, 3, 3, 1, 1, 2, 3, 2, 2, 1, 2, 4, 2, 4, 1, 4, 2, 3, 3, 2, 1, 3, 2, 3, 2, 3, 1, 1, 2, 2, 1, 3, 3, 3, 3, 2, 3, 1, 3, 2, 4, 2, 3, 7, 4, 3, 2, 2, 1, 2, 2, 1, 1, 1, 1, 2, 2, 2, 1, 2, 4, 2, 5, 1, 1, 1, 2, 2, 3, 3, 3, 1, 1, 2, 3, 1, 4, 2, 3, 2, 4, 2, 1, 2, 2, 3, 2, 2, 4, 2, 3, 1, 1, 2, 3, 1, 2, 1, 1, 3, 1, 1, 2, 3, 2, 1, 3, 1, 1, 3, 2, 2, 2, 4, 1, 2, 1, 4, 1, 2, 1, 2, 2, 1, 2, 3, 2, 1, 3, 1, 2, 1, 1, 1, 1, 1, 2, 2, 1, 3, 2, 1, 2, 1, 1, 2, 1, 1, 3, 1, 2, 2, 2, 2, 5, 3, 2, 3, 1, 3, 2, 2, 3, 2, 3, 2, 1, 1, 3, 2, 1, 1, 4, 1, 2, 1, 3, 3, 2, 2, 2, 2, 3, 2, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 2, 1, 2, 1, 1, 2, 2, 5, 2, 1, 1, 2, 1, 1, 2, 1, 2, 3, 1, 1, 2, 3, 2, 1, 3, 1, 2, 2, 3, 1, 1, 1, 2, 3, 2, 2, 1, 3, 2, 2, 1, 2, 2, 2, 3, 4, 2, 1, 2, 4, 1, 2, 1, 2, 2, 2, 1, 2, 2, 2, 5, 1, 3, 3, 3, 3, 4, 2, 3, 2, 4, 1, 2, 2, 4, 2, 3, 2, 1, 3, 2, 1, 1, 1, 3, 2, 1, 2, 2, 2, 2, 2, 3, 1, 1, 1, 2, 2, 1, 2, 1, 3, 3, 2, 2, 1, 2, 3, 2, 2, 3, 2, 5, 2, 2, 2, 2, 2, 1, 1, 2, 1, 3, 2, 2, 2, 2, 2, 1, 2, 2, 1, 3, 1, 2, 4, 2, 2, 2, 2, 1, 3, 2, 2, 1, 3, 4, 2, 2, 1, 2, 2, 1, 4, 1, 1, 1, 2, 3, 1, 3, 2, 2, 2, 3, 4, 4, 3, 2, 2, 2, 1, 3, 4, 2, 1, 1, 1, 2, 2, 3, 1, 2, 1, 3, 4, 2, 1, 1, 1, 2, 6, 2, 3, 4, 3, 2, 3, 2, 2, 1, 4, 1, 4, 4, 2, 2, 6, 1, 1, 2, 6, 1, 1, 4, 1, 2, 1, 1, 4, 2, 2, 2, 1, 6, 1, 3, 1, 2, 2, 4, 2, 7, 2, 5, 2, 2, 3, 2, 3, 2, 4, 2, 2, 4, 3, 4, 4, 1, 1, 4, 2, 2, 5, 1, 3, 1, 2, 1, 1, 3, 2, 1, 2, 1, 1, 3, 4, 2, 1, 3, 1, 2, 2, 1, 2, 2, 1, 1, 4, 3, 3, 5, 2, 2, 1, 4, 1, 2, 2, 1, 1, 3, 1, 2, 1, 2, 1, 2, 4, 1, 1, 1, 1, 2, 1, 2, 1, 1, 3, 1, 3, 2, 1, 3, 2, 2, 1, 3, 2, 1, 1, 1, 1, 1, 3, 1, 2, 2, 2, 1, 2, 1, 2, 1, 1]
+Personal Pronoun Count: 2
+Average Word Length: 3.7742857142857145
+
+Positive Words:
+like
+plays
+significant
+importance
+helps
+helps
+increased
+better
+relief
+support
+livelihoods.
+credit
+benefits,
+secure
+livelihood
+support
+ensure
+like
+support
+good,
+care
+like
+important
+well.
+solutions:
+livelihood
+(fresh
+adequate
+support
+benefits
+help
+welcome
+relief
+support
+grants
+livelihood
+support
+accept
+Ensuring
+safety
+reliefs
+benefits
+help
+help
+hand
+
+Negative Words:
+Petty
+limited
+havoc,
+uncertainty
+lack
+severe
+loss
+crisis,
+vulnerable
+suffer
+lack
+risk
+frightening
+hunger.
+lack
+stall
+stall
+lack
+fear
+stall
+suspended,
+severe
+bailout
+alone,
+no

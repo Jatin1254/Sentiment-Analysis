@@ -1,0 +1,35 @@
+Compound Score: -0.8519
+Polarity Score: -0.17647057785467188
+Positive Score: 7
+Negative Score: 10
+Subjectivity Score: 0.1172413785017836
+Average Sentence Length: 14.5
+Average Words Per Sentence: 14.5
+Complex Word Count: 18
+Percentage of Complex Words: 12.413793103448276
+Fog Index: 10.765517241379312
+Cleaned Word Count: 75
+Syllable Count Per Word: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 1, 1, 1, 2, 1, 1, 2, 3, 1, 1, 2, 1, 3, 2, 2, 1, 3, 3, 2, 4, 2, 1, 1, 2, 2, 6, 1, 2, 3, 2, 2, 1, 1, 3, 1, 2, 2, 1, 2, 3, 1, 1, 1, 3, 2, 3, 4, 3, 2, 2, 3, 2, 1, 2, 1, 2, 3, 4, 1, 3, 2, 4, 0]
+Personal Pronoun Count: 4
+Average Word Length: 3.2
+
+Positive Words:
+growing
+United
+agreements
+actively
+commitment
+United
+help
+
+Negative Words:
+danger
+threat
+war
+threat.
+critical
+weapons
+War,
+risk
+weapons
+threat

@@ -1,0 +1,60 @@
+Compound Score: 0.9984
+Polarity Score: 0.9047618832199552
+Positive Score: 40
+Negative Score: 2
+Subjectivity Score: 0.05637583885050223
+Average Sentence Length: 15.851063829787234
+Average Words Per Sentence: 15.851063829787234
+Complex Word Count: 170
+Percentage of Complex Words: 22.818791946308725
+Fog Index: 15.467942310438383
+Cleaned Word Count: 418
+Syllable Count Per Word: [2, 3, 1, 3, 2, 3, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 3, 3, 2, 1, 3, 1, 2, 3, 2, 3, 2, 3, 3, 2, 2, 4, 4, 3, 2, 1, 1, 1, 2, 3, 2, 2, 3, 2, 2, 2, 3, 1, 2, 2, 3, 2, 1, 2, 2, 3, 1, 1, 3, 1, 1, 4, 2, 3, 1, 2, 2, 2, 1, 3, 2, 3, 1, 1, 2, 3, 3, 2, 4, 3, 1, 2, 2, 4, 2, 3, 1, 3, 1, 3, 1, 2, 1, 1, 3, 2, 1, 1, 1, 2, 3, 3, 1, 2, 5, 2, 2, 4, 2, 1, 3, 2, 3, 2, 2, 2, 4, 1, 4, 2, 2, 3, 3, 2, 2, 2, 4, 3, 2, 2, 2, 2, 2, 2, 2, 3, 2, 1, 2, 2, 2, 4, 3, 4, 3, 4, 2, 4, 3, 4, 3, 4, 2, 4, 2, 3, 3, 3, 3, 3, 3, 4, 3, 3, 3, 2, 2, 2, 2, 3, 2, 0, 4, 1, 4, 3, 2, 2, 1, 2, 3, 3, 3, 3, 3, 3, 3, 2, 2, 3, 1, 2, 2, 3, 1, 1, 2, 2, 5, 1, 2, 2, 1, 2, 2, 3, 1, 4, 2, 4, 2, 1, 1, 1, 2, 3, 4, 2, 3, 3, 3, 1, 3, 1, 1, 1, 2, 1, 1, 3, 1, 4, 1, 3, 2, 2, 2, 2, 2, 4, 3, 1, 1, 1, 2, 3, 1, 3, 1, 3, 1, 3, 3, 2, 3, 2, 3, 3, 3, 2, 2, 2, 2, 3, 2, 5, 3, 2, 2, 3, 3, 4, 2, 2, 1, 2, 2, 2, 2, 1, 4, 1, 5, 2, 3, 2, 3, 3, 2, 1, 1, 2, 2, 1, 1, 1, 2, 2, 2, 1, 3, 2, 2, 2, 2, 3, 3, 1, 1, 4, 1, 1, 2, 1, 1, 1, 1, 3, 4, 1, 1, 1, 3, 1, 1, 3, 2, 1, 2, 2, 3, 1, 1, 1, 2, 2, 1, 3, 3, 2, 4, 3, 3, 3, 3, 3, 1, 1, 2, 3, 1, 3, 2, 2, 1, 1, 2, 2, 1, 2, 3, 1, 1, 3, 4, 2, 2, 3, 2, 3, 2, 4, 2, 2, 2, 2, 4, 1, 1, 3, 4, 3, 3, 4, 3, 2, 1, 3, 2, 3, 3, 3, 3, 3, 3, 3, 1, 2, 2, 2, 1, 3, 2, 1, 2, 3, 2, 4, 2, 1, 2, 3, 3, 4, 3, 3, 1, 3]
+Personal Pronoun Count: 0
+Average Word Length: 3.8322147651006713
+
+Positive Words:
+want
+promoting
+fine
+number
+want
+create
+huge
+benefits
+like
+benefits
+liking.
+friends
+created
+promote
+best
+useful,
+attract
+profitable
+attract
+focused
+successful.
+kind
+successful
+prospects
+great
+attract
+like
+free
+fantastic
+strong
+inspire
+loved
+best
+determined
+best
+comprehensive
+effective.
+benefits
+number
+number
+
+Negative Words:
+pay
+no

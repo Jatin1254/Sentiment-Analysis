@@ -1,0 +1,68 @@
+Compound Score: 0.997
+Polarity Score: 0.5999999880000003
+Positive Score: 40
+Negative Score: 10
+Subjectivity Score: 0.07451564817508845
+Average Sentence Length: 16.775
+Average Words Per Sentence: 16.775
+Complex Word Count: 159
+Percentage of Complex Words: 23.69597615499255
+Fog Index: 16.18839046199702
+Cleaned Word Count: 402
+Syllable Count Per Word: [4, 1, 1, 1, 2, 2, 5, 4, 2, 2, 3, 2, 8, 3, 2, 6, 2, 3, 2, 1, 1, 1, 5, 2, 1, 3, 4, 1, 4, 4, 2, 2, 2, 1, 2, 2, 1, 2, 2, 2, 4, 1, 5, 1, 1, 1, 3, 3, 2, 1, 1, 2, 2, 1, 3, 2, 2, 2, 3, 2, 2, 5, 2, 2, 4, 2, 3, 3, 2, 4, 3, 3, 1, 2, 2, 3, 2, 1, 2, 1, 1, 2, 1, 3, 3, 3, 2, 2, 2, 3, 3, 2, 5, 2, 3, 2, 3, 1, 2, 2, 1, 0, 1, 1, 4, 3, 2, 2, 2, 3, 1, 2, 2, 1, 3, 2, 3, 1, 2, 2, 4, 2, 1, 1, 2, 1, 5, 3, 3, 4, 3, 2, 1, 3, 1, 1, 3, 3, 2, 4, 1, 3, 6, 1, 4, 2, 5, 2, 3, 1, 2, 3, 1, 3, 2, 4, 2, 3, 4, 1, 3, 4, 3, 3, 1, 4, 2, 5, 2, 1, 2, 1, 5, 2, 3, 2, 1, 1, 3, 3, 3, 2, 4, 3, 2, 2, 2, 2, 2, 1, 3, 2, 3, 4, 4, 3, 4, 1, 1, 2, 4, 4, 3, 2, 2, 2, 3, 2, 3, 3, 3, 4, 2, 1, 2, 1, 2, 3, 2, 2, 6, 2, 2, 1, 2, 3, 1, 2, 3, 3, 4, 3, 2, 1, 4, 2, 2, 1, 3, 1, 5, 1, 3, 2, 2, 0, 2, 4, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 1, 1, 4, 3, 2, 3, 3, 2, 1, 3, 3, 2, 2, 3, 1, 2, 2, 4, 2, 2, 3, 4, 2, 2, 3, 1, 2, 1, 3, 2, 2, 2, 3, 2, 3, 1, 2, 2, 2, 4, 1, 2, 4, 2, 2, 3, 2, 2, 3, 4, 2, 3, 3, 3, 2, 2, 1, 2, 1, 1, 1, 2, 2, 2, 3, 2, 2, 4, 3, 3, 1, 3, 1, 1, 2, 3, 1, 5, 4, 2, 3, 1, 3, 4, 3, 3, 2, 4, 4, 2, 2, 1, 2, 4, 2, 2, 2, 1, 4, 2, 2, 3, 3, 2, 5, 1, 2, 4, 3, 3, 2, 2, 3, 2, 2, 3, 2, 2, 3, 1, 2, 3, 2, 3, 3, 2, 2, 2, 2, 1, 3, 5, 2, 2, 3, 1, 1, 2, 5, 2, 3, 3, 3, 3]
+Personal Pronoun Count: 0
+Average Word Length: 4.384500745156483
+
+Positive Words:
+challenges
+like
+Intelligence
+helping
+better
+easier
+boost
+launched
+hoped
+advanced
+like-
+help
+boost
+efficiency
+care.
+help
+engagement
+growth
+like
+increase
+important
+ensure
+protected
+top
+responsible
+help
+encourage
+improve
+ensure
+credit
+like
+help
+effectively
+encourage
+significant
+responsible
+better
+tougher
+attracting
+resolve
+
+Negative Words:
+grim.
+neglected
+vulnerable
+severe
+threats.
+struggle
+pay
+demand
+demand
+demand

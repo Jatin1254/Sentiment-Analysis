@@ -1,0 +1,47 @@
+Compound Score: 0.9932
+Polarity Score: 0.7241379060642101
+Positive Score: 25
+Negative Score: 4
+Subjectivity Score: 0.04136947212358135
+Average Sentence Length: 17.097560975609756
+Average Words Per Sentence: 17.097560975609756
+Complex Word Count: 196
+Percentage of Complex Words: 27.960057061340944
+Fog Index: 18.02304721478028
+Cleaned Word Count: 409
+Syllable Count Per Word: [4, 3, 1, 3, 2, 3, 2, 2, 1, 1, 3, 3, 1, 3, 2, 2, 1, 1, 2, 2, 1, 3, 4, 2, 1, 1, 2, 1, 3, 2, 1, 1, 4, 2, 2, 1, 1, 2, 4, 1, 5, 1, 2, 2, 2, 3, 4, 3, 2, 2, 1, 2, 2, 3, 1, 4, 2, 4, 2, 2, 4, 1, 1, 1, 4, 1, 4, 4, 2, 2, 4, 1, 3, 3, 2, 2, 3, 2, 1, 2, 2, 2, 1, 3, 1, 4, 3, 5, 2, 4, 2, 1, 5, 4, 3, 4, 3, 2, 3, 3, 1, 4, 2, 3, 1, 2, 2, 3, 2, 3, 3, 2, 1, 2, 2, 1, 4, 1, 1, 2, 1, 3, 4, 1, 1, 1, 1, 2, 1, 3, 2, 1, 3, 1, 4, 2, 2, 2, 2, 1, 3, 2, 4, 3, 3, 4, 5, 2, 1, 1, 5, 3, 4, 1, 2, 1, 4, 1, 4, 3, 3, 5, 4, 2, 4, 4, 2, 3, 1, 3, 4, 1, 4, 1, 5, 3, 4, 3, 4, 3, 2, 1, 2, 2, 1, 3, 3, 2, 4, 2, 1, 1, 4, 3, 6, 2, 3, 2, 3, 3, 3, 2, 1, 4, 2, 2, 4, 2, 3, 2, 1, 2, 1, 3, 4, 3, 2, 1, 2, 2, 3, 4, 2, 2, 3, 5, 2, 2, 4, 2, 2, 4, 2, 3, 4, 3, 2, 2, 4, 3, 4, 3, 1, 3, 2, 2, 3, 4, 3, 2, 2, 1, 3, 2, 4, 3, 4, 3, 2, 2, 2, 2, 2, 2, 3, 2, 3, 2, 3, 1, 2, 1, 3, 4, 1, 4, 2, 3, 3, 3, 2, 3, 3, 3, 1, 5, 3, 1, 2, 3, 4, 4, 3, 4, 2, 3, 4, 1, 1, 2, 5, 3, 4, 3, 3, 3, 4, 3, 2, 1, 4, 1, 1, 2, 2, 3, 1, 1, 4, 2, 3, 2, 3, 3, 2, 2, 4, 2, 2, 3, 3, 3, 1, 2, 2, 2, 2, 1, 1, 1, 6, 2, 4, 2, 2, 4, 3, 3, 3, 1, 4, 3, 2, 2, 3, 1, 2, 3, 2, 3, 1, 4, 1, 2, 2, 5, 3, 3, 4, 3, 3, 1, 2, 4, 3, 3, 4, 1, 2, 2, 1, 2, 4, 2, 4, 3, 4, 3, 2, 3, 2, 4, 2, 2, 3, 2, 2, 5, 2, 4, 1, 1, 1, 2, 3, 3, 5, 3, 2]
+Personal Pronoun Count: 0
+Average Word Length: 4.340941512125535
+
+Positive Words:
+endorse
+entertainment
+wealth,
+fame,
+popularity.
+favor,
+parties,
+special
+interest
+play
+helping
+favor
+created
+well
+expand
+United
+opportunity
+challenges
+significant
+powerful
+support
+gain
+greater
+innovation.
+promising
+
+Negative Words:
+risky
+risk
+struggled
+jaded

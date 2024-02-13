@@ -1,0 +1,75 @@
+Compound Score: 0.9863
+Polarity Score: 0.40350876485072346
+Positive Score: 40
+Negative Score: 17
+Subjectivity Score: 0.07786885235263818
+Average Sentence Length: 29.28
+Average Words Per Sentence: 29.28
+Complex Word Count: 153
+Percentage of Complex Words: 20.901639344262296
+Fog Index: 20.07265573770492
+Cleaned Word Count: 430
+Syllable Count Per Word: [2, 3, 1, 1, 2, 3, 3, 1, 2, 2, 3, 2, 2, 3, 4, 4, 2, 4, 3, 1, 2, 2, 2, 2, 2, 3, 2, 1, 4, 4, 3, 2, 1, 4, 3, 2, 6, 1, 4, 1, 3, 2, 4, 1, 3, 2, 1, 2, 2, 3, 3, 5, 4, 1, 3, 1, 4, 3, 2, 4, 3, 2, 1, 2, 2, 1, 4, 2, 4, 2, 6, 3, 2, 1, 2, 2, 1, 4, 3, 2, 3, 3, 1, 1, 1, 2, 3, 2, 4, 2, 1, 4, 2, 4, 1, 4, 2, 1, 2, 3, 2, 2, 1, 3, 1, 3, 2, 1, 4, 1, 2, 2, 1, 1, 2, 1, 5, 2, 3, 2, 1, 1, 2, 5, 2, 4, 1, 1, 2, 2, 3, 2, 1, 3, 1, 2, 3, 2, 2, 1, 1, 4, 2, 3, 1, 1, 2, 1, 4, 2, 2, 3, 2, 3, 1, 1, 2, 2, 1, 2, 4, 2, 2, 1, 2, 2, 3, 1, 4, 2, 2, 3, 2, 2, 3, 1, 4, 2, 2, 3, 4, 2, 3, 3, 2, 2, 2, 2, 1, 4, 3, 2, 1, 2, 1, 4, 2, 2, 2, 5, 3, 1, 2, 1, 3, 4, 2, 1, 2, 2, 3, 2, 4, 4, 2, 2, 5, 3, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 1, 4, 2, 3, 2, 3, 3, 3, 1, 4, 2, 2, 3, 2, 3, 3, 2, 3, 2, 1, 3, 3, 4, 3, 2, 2, 1, 2, 1, 1, 1, 4, 2, 5, 3, 2, 3, 1, 3, 3, 5, 2, 2, 2, 4, 2, 2, 1, 1, 2, 5, 2, 4, 2, 4, 3, 2, 2, 1, 1, 2, 1, 3, 2, 4, 4, 2, 1, 1, 2, 1, 1, 2, 3, 4, 3, 2, 3, 3, 2, 2, 2, 1, 1, 2, 1, 1, 1, 3, 2, 1, 1, 2, 3, 2, 4, 1, 4, 3, 2, 2, 2, 4, 2, 2, 3, 2, 3, 1, 1, 2, 2, 2, 3, 3, 2, 2, 2, 3, 1, 1, 1, 2, 1, 2, 2, 3, 2, 2, 2, 2, 2, 2, 2, 1, 2, 1, 3, 2, 5, 1, 1, 1, 1, 4, 2, 2, 2, 2, 3, 1, 2, 4, 2, 5, 1, 1, 3, 1, 4, 3, 3, 1, 4, 2, 1, 3, 2, 1, 2, 4, 2, 3, 6, 2, 1, 2, 1, 3, 1, 3, 1, 2, 4, 1, 2, 3, 2, 2, 2, 2, 3, 2, 3, 4, 2, 2, 1, 3, 1, 2, 1]
+Personal Pronoun Count: 0
+Average Word Length: 4.080601092896175
+
+Positive Words:
+growing
+importance
+healthy
+fresh
+dominance
+number
+Fresh
+dedicated
+fresh
+fresh
+played
+fresh
+value
+fresh
+fresh
+fresh
+United
+importance
+fresh
+fresh
+attract
+fresh
+greater
+fresh
+relaxed
+vital
+increased
+number
+launched
+livelihood.
+relief
+credit
+credit,
+benefit,
+grant,
+help
+support
+livelihoods.
+fresh
+launched
+
+Negative Words:
+disruptive
+worried
+catastrophic
+interruptions
+negative
+worry.
+forced
+falling
+demand
+fear
+low
+demand
+danger
+harassed
+no
+serious
+loss

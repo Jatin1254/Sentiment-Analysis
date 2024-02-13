@@ -1,0 +1,108 @@
+Compound Score: -0.9666
+Polarity Score: 0.06666666592592593
+Positive Score: 48
+Negative Score: 42
+Subjectivity Score: 0.11264080086027434
+Average Sentence Length: 14.267857142857142
+Average Words Per Sentence: 14.267857142857142
+Complex Word Count: 125
+Percentage of Complex Words: 15.644555694618273
+Fog Index: 11.964965134990166
+Cleaned Word Count: 416
+Syllable Count Per Word: [2, 3, 2, 1, 1, 2, 1, 2, 2, 2, 1, 4, 1, 1, 1, 2, 4, 4, 1, 3, 1, 2, 2, 1, 3, 3, 2, 1, 2, 2, 3, 3, 3, 3, 1, 3, 2, 3, 1, 1, 2, 1, 3, 2, 2, 4, 2, 1, 3, 2, 1, 3, 1, 2, 1, 2, 1, 2, 1, 1, 2, 2, 2, 2, 1, 2, 4, 1, 4, 1, 1, 2, 3, 1, 1, 1, 2, 2, 2, 1, 3, 2, 1, 1, 1, 3, 1, 1, 1, 3, 2, 2, 3, 4, 2, 1, 2, 3, 1, 2, 2, 1, 2, 1, 3, 2, 2, 4, 2, 4, 2, 2, 1, 3, 2, 1, 2, 1, 2, 2, 1, 2, 1, 4, 1, 4, 2, 2, 3, 2, 2, 2, 1, 3, 4, 2, 1, 2, 2, 2, 2, 2, 2, 2, 3, 2, 2, 2, 3, 4, 4, 1, 2, 2, 1, 1, 2, 4, 3, 1, 1, 1, 4, 3, 3, 2, 3, 2, 4, 4, 2, 4, 5, 4, 1, 2, 2, 3, 2, 3, 1, 2, 1, 1, 1, 2, 3, 3, 1, 1, 1, 1, 3, 1, 1, 1, 2, 2, 1, 1, 2, 1, 2, 3, 1, 2, 1, 1, 1, 4, 3, 1, 2, 1, 4, 2, 1, 1, 1, 2, 2, 3, 4, 4, 1, 2, 1, 3, 1, 2, 1, 1, 1, 3, 1, 3, 1, 3, 1, 2, 1, 2, 1, 2, 2, 1, 2, 2, 2, 1, 3, 1, 1, 1, 3, 1, 3, 1, 1, 2, 4, 1, 1, 1, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1, 3, 4, 3, 1, 1, 3, 2, 2, 2, 1, 3, 3, 3, 3, 2, 3, 3, 2, 2, 2, 4, 2, 2, 3, 1, 2, 1, 4, 3, 2, 4, 3, 2, 2, 1, 2, 2, 1, 1, 1, 1, 2, 2, 5, 2, 3, 1, 2, 1, 3, 2, 2, 4, 2, 1, 1, 3, 1, 1, 2, 3, 2, 1, 1, 1, 2, 2, 3, 1, 2, 2, 1, 2, 1, 2, 2, 3, 2, 2, 2, 2, 2, 2, 3, 1, 1, 2, 1, 4, 3, 3, 1, 1, 3, 1, 2, 2, 2, 3, 2, 3, 2, 1, 2, 4, 1, 1, 1, 1, 3, 3, 1, 3, 3, 3, 2, 4, 3, 4, 1, 3, 2, 3, 2, 4, 3, 1, 4, 2, 1, 2, 1, 3, 2, 2, 1, 1, 1, 2, 3, 2]
+Personal Pronoun Count: 16
+Average Word Length: 3.289111389236546
+
+Positive Words:
+livelihood.
+satisfies
+want
+well
+kind
+easily
+care.
+feeling
+creative.
+created
+share
+emotional
+satisfaction
+emotional
+gratification,
+attachment
+share
+great
+progress
+heart
+kind
+fame,
+progress,
+wealth,
+gain
+wealth
+enjoy
+care
+friends,
+jokes,
+emotional
+prominent
+significant
+want
+motivation,
+happiness,
+feeling
+like
+enjoys
+blessings,
+happy
+ability
+challenges
+emotional
+sharing
+joy
+happiness,
+feeling
+
+Negative Words:
+No
+loneliness?
+no
+loneliness.
+Loneliness
+worry.
+losing
+lonely
+loneliness
+isolation.
+no
+loneliness.
+incapable
+loneliness
+lonely
+problems.
+struggling
+loneliness
+lonely
+loneliness
+weep
+tears,
+depression.
+Depression
+depressive
+sick
+loneliness
+Lonely
+no
+die.
+useless
+anger,
+sadness.
+no
+loneliness,
+ill
+trauma
+no
+sad
+loses
+dangerous
+neglected,

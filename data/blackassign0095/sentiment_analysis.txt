@@ -1,0 +1,59 @@
+Compound Score: -0.8778
+Polarity Score: -0.1707317031528853
+Positive Score: 17
+Negative Score: 24
+Subjectivity Score: 0.06634304196384622
+Average Sentence Length: 16.263157894736842
+Average Words Per Sentence: 16.263157894736842
+Complex Word Count: 119
+Percentage of Complex Words: 19.25566343042071
+Fog Index: 14.207528530063023
+Cleaned Word Count: 376
+Syllable Count Per Word: [2, 1, 3, 1, 3, 1, 2, 5, 4, 2, 2, 1, 1, 2, 1, 1, 1, 1, 3, 2, 1, 3, 2, 4, 1, 4, 1, 4, 2, 1, 2, 3, 2, 2, 3, 2, 2, 3, 2, 2, 3, 1, 1, 2, 2, 2, 2, 4, 2, 3, 1, 1, 1, 4, 3, 2, 2, 2, 1, 3, 3, 3, 2, 2, 1, 2, 3, 2, 1, 1, 1, 2, 1, 3, 2, 2, 1, 1, 1, 1, 4, 2, 1, 2, 2, 2, 2, 1, 2, 1, 3, 2, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 1, 1, 1, 3, 2, 1, 1, 1, 2, 4, 1, 3, 3, 1, 1, 2, 1, 3, 2, 3, 1, 1, 1, 1, 2, 2, 2, 5, 2, 1, 3, 2, 1, 2, 1, 1, 3, 1, 3, 2, 3, 1, 3, 2, 1, 1, 3, 1, 5, 2, 2, 2, 4, 3, 4, 1, 4, 2, 3, 2, 2, 2, 1, 2, 1, 1, 2, 1, 3, 1, 1, 3, 1, 2, 2, 2, 1, 2, 2, 5, 2, 3, 3, 1, 2, 2, 3, 3, 1, 3, 3, 4, 2, 2, 1, 2, 1, 3, 3, 1, 1, 2, 4, 2, 2, 3, 1, 2, 1, 2, 2, 1, 1, 1, 1, 3, 2, 2, 2, 1, 1, 1, 1, 4, 0, 1, 2, 2, 3, 3, 1, 4, 2, 1, 3, 3, 2, 1, 3, 0, 3, 2, 2, 1, 1, 2, 1, 3, 3, 2, 2, 1, 3, 4, 3, 5, 2, 2, 3, 1, 0, 1, 3, 3, 3, 2, 4, 2, 1, 3, 3, 2, 3, 3, 1, 1, 1, 1, 1, 1, 2, 3, 3, 2, 1, 1, 1, 0, 3, 3, 1, 2, 2, 3, 5, 2, 2, 1, 3, 1, 2, 2, 1, 3, 2, 4, 2, 2, 2, 5, 2, 4, 1, 3, 2, 2, 3, 3, 4, 5, 0, 2, 1, 0, 3, 3, 2, 1, 1, 2, 2, 3, 3, 2, 5, 2, 3, 1, 6, 3, 4, 2, 2, 3, 2, 6, 2, 2, 2, 1, 3, 3, 3, 2, 3, 2, 1, 1, 0, 2, 1, 2, 4, 1, 5, 1, 2, 2, 3, 4, 0, 1, 1, 0]
+Personal Pronoun Count: 3
+Average Word Length: 3.841423948220065
+
+Positive Words:
+novel
+like
+like
+helpful?
+nurtured
+like
+improved
+like
+good
+safe
+increase
+Amazon
+opportunity
+protected
+increase
+good
+Safe
+
+Negative Words:
+impose
+death
+imposed
+death
+exploiting
+blind
+havoc
+loss
+selfish
+imposed
+stopped.
+no
+leave
+threat
+attacks
+damaging
+waste
+worn
+waste
+fears
+illegal
+crisis
+alarming
+damaged

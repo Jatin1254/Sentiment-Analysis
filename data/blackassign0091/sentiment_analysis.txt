@@ -1,0 +1,80 @@
+Compound Score: 0.9969
+Polarity Score: 0.32258063995837677
+Positive Score: 41
+Negative Score: 21
+Subjectivity Score: 0.056880733892769965
+Average Sentence Length: 26.585365853658537
+Average Words Per Sentence: 26.585365853658537
+Complex Word Count: 215
+Percentage of Complex Words: 19.724770642201836
+Fog Index: 18.52405459834415
+Cleaned Word Count: 597
+Syllable Count Per Word: [2, 5, 3, 1, 1, 5, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 4, 3, 3, 4, 1, 3, 4, 2, 2, 2, 2, 2, 3, 3, 2, 2, 1, 5, 1, 1, 1, 1, 2, 4, 1, 2, 1, 3, 2, 3, 1, 2, 1, 1, 2, 4, 2, 4, 1, 4, 2, 3, 1, 3, 1, 1, 3, 2, 1, 2, 2, 2, 2, 3, 2, 2, 4, 3, 2, 1, 2, 2, 3, 2, 4, 3, 2, 1, 2, 3, 3, 2, 1, 1, 4, 3, 2, 1, 2, 3, 2, 2, 2, 2, 4, 4, 3, 3, 2, 2, 2, 1, 2, 3, 2, 1, 3, 3, 1, 1, 3, 2, 2, 2, 2, 1, 1, 2, 3, 2, 2, 3, 1, 3, 4, 1, 2, 1, 1, 3, 4, 1, 2, 1, 1, 1, 2, 5, 1, 2, 1, 2, 1, 4, 3, 3, 1, 2, 2, 3, 4, 3, 3, 2, 4, 4, 2, 2, 3, 1, 1, 2, 3, 1, 1, 4, 1, 1, 2, 3, 2, 2, 2, 1, 3, 5, 1, 3, 1, 3, 2, 5, 1, 4, 2, 2, 2, 3, 3, 2, 1, 3, 2, 2, 1, 2, 3, 2, 1, 4, 4, 2, 2, 2, 2, 3, 1, 3, 4, 3, 2, 1, 1, 1, 4, 2, 2, 3, 3, 2, 2, 4, 2, 5, 1, 3, 4, 3, 4, 2, 3, 2, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 5, 2, 3, 2, 1, 2, 5, 3, 1, 1, 4, 2, 2, 2, 4, 3, 2, 3, 2, 4, 2, 3, 3, 3, 4, 1, 1, 3, 1, 1, 2, 2, 2, 1, 2, 3, 3, 3, 2, 4, 3, 3, 2, 1, 1, 2, 1, 2, 2, 3, 3, 3, 2, 4, 2, 1, 2, 1, 2, 5, 3, 2, 2, 3, 1, 2, 1, 1, 4, 1, 3, 3, 3, 1, 1, 4, 3, 1, 2, 1, 1, 3, 3, 2, 2, 2, 2, 1, 1, 1, 3, 1, 3, 1, 1, 3, 1, 4, 5, 1, 1, 1, 3, 1, 2, 4, 1, 1, 1, 1, 1, 1, 2, 3, 1, 3, 1, 1, 2, 4, 2, 2, 1, 1, 3, 1, 2, 1, 1, 1, 1, 3, 3, 1, 1, 4, 3, 3, 4, 1, 1, 4, 1, 2, 3, 3, 2, 2, 3, 2, 2, 2, 1, 1, 1, 1, 1, 2, 3, 3, 3, 2, 1, 3, 1, 3, 2, 3, 1, 3, 1, 1, 3, 1, 3, 6, 2, 1, 1, 1, 1, 2, 1, 4, 4, 1, 1, 4, 1, 4, 2, 4, 4, 1, 5, 3, 2, 1, 2, 3, 3, 4, 4, 1, 1, 3, 3, 1, 1, 2, 3, 3, 2, 2, 2, 2, 1, 2, 1, 3, 2, 5, 3, 2, 2, 2, 4, 4, 5, 1, 4, 2, 1, 5, 2, 1, 2, 2, 3, 1, 4, 1, 3, 1, 2, 2, 0, 3, 2, 2, 2, 2, 5, 2, 2, 1, 4, 2, 2, 4, 3, 3, 1, 5, 1, 2, 1, 2, 3, 1, 2, 1, 2, 3, 3, 2, 4, 1, 2, 3, 2, 1, 2, 3, 3, 2, 1, 2, 2, 2, 2, 2, 4, 2, 4, 2, 1, 1, 4, 3, 3, 2, 4, 2, 1, 1, 1, 1, 3, 4, 5, 4, 1, 1, 2, 1, 1, 1, 2, 1, 2, 2, 4, 1, 2, 4, 4, 4, 1, 1, 1, 3, 2, 1, 2, 2, 2, 3, 2, 1, 2, 2, 2, 1, 1, 2]
+Personal Pronoun Count: 11
+Average Word Length: 3.6376146788990824
+
+Positive Words:
+great
+growth.
+Great
+benefit
+easily
+true?
+surprise
+better
+better
+giving
+better
+intelligence
+boost
+increase
+ensuring
+ensuring
+safety,
+top
+ensuring
+better
+giving
+adopt
+hand
+hand
+growth
+opportunity
+nurturing
+join
+surprising
+best
+growth.
+growth
+gift
+best
+like
+novel
+opportunities
+growth,
+profits
+competitive
+growth
+
+Negative Words:
+unemployment
+worst
+recession
+Depression
+crisis
+recession,
+losses
+poor.
+contagion
+hard
+leave
+hard
+hard
+Unfortunately,
+ill
+unfortunate
+destruction
+recession
+doom
+ill
+disguise

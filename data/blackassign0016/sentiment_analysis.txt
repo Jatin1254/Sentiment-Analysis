@@ -1,0 +1,130 @@
+Compound Score: 0.9997
+Polarity Score: 0.6071428517219388
+Positive Score: 90
+Negative Score: 22
+Subjectivity Score: 0.09202958086110963
+Average Sentence Length: 19.317460317460316
+Average Words Per Sentence: 19.317460317460316
+Complex Word Count: 302
+Percentage of Complex Words: 24.815119145439606
+Fog Index: 17.65303178515997
+Cleaned Word Count: 748
+Syllable Count Per Word: [1, 3, 6, 6, 1, 3, 1, 1, 3, 3, 4, 1, 2, 2, 2, 1, 4, 5, 3, 1, 1, 2, 1, 1, 0, 2, 1, 4, 2, 2, 2, 4, 1, 4, 1, 2, 2, 2, 3, 2, 3, 1, 2, 3, 3, 2, 3, 1, 4, 2, 3, 4, 2, 2, 1, 5, 1, 7, 4, 2, 3, 4, 2, 4, 2, 1, 3, 3, 3, 2, 2, 3, 1, 3, 2, 4, 2, 3, 1, 4, 2, 1, 4, 2, 2, 1, 3, 3, 2, 3, 3, 6, 4, 2, 4, 2, 4, 3, 4, 2, 3, 2, 4, 3, 4, 4, 2, 2, 2, 1, 4, 3, 4, 4, 2, 2, 2, 2, 2, 1, 2, 4, 2, 1, 2, 2, 3, 3, 2, 2, 3, 3, 1, 1, 3, 2, 3, 2, 3, 2, 2, 3, 2, 3, 4, 3, 2, 1, 2, 4, 2, 2, 5, 2, 3, 3, 2, 3, 2, 4, 2, 3, 1, 3, 3, 1, 4, 1, 3, 2, 3, 2, 3, 3, 2, 4, 3, 2, 2, 2, 2, 2, 3, 2, 2, 1, 2, 3, 2, 2, 1, 1, 1, 2, 3, 1, 1, 1, 3, 2, 1, 1, 1, 2, 3, 1, 2, 1, 1, 2, 3, 3, 3, 2, 1, 5, 2, 1, 2, 3, 2, 4, 2, 2, 4, 4, 2, 3, 2, 5, 2, 1, 2, 5, 1, 2, 1, 2, 2, 2, 3, 3, 1, 3, 1, 4, 2, 1, 1, 2, 3, 3, 2, 1, 1, 5, 3, 4, 1, 2, 2, 2, 1, 4, 3, 2, 1, 3, 3, 3, 1, 3, 1, 3, 3, 3, 1, 3, 1, 5, 2, 3, 2, 2, 4, 3, 3, 3, 3, 1, 1, 2, 1, 2, 2, 2, 5, 1, 2, 1, 3, 2, 2, 3, 6, 3, 2, 1, 3, 2, 1, 3, 3, 4, 2, 1, 1, 2, 4, 1, 2, 3, 3, 1, 1, 3, 3, 3, 1, 3, 2, 3, 3, 2, 2, 3, 3, 1, 2, 1, 2, 2, 3, 2, 2, 2, 1, 3, 1, 3, 1, 2, 3, 2, 3, 2, 2, 2, 1, 1, 3, 2, 1, 1, 1, 2, 3, 2, 3, 1, 2, 2, 1, 3, 3, 1, 1, 3, 3, 1, 1, 3, 1, 5, 3, 3, 3, 3, 3, 1, 3, 2, 2, 3, 2, 2, 2, 3, 3, 2, 2, 1, 3, 2, 2, 3, 3, 2, 4, 2, 2, 3, 4, 3, 3, 2, 3, 1, 2, 1, 3, 2, 3, 3, 1, 2, 1, 3, 1, 2, 2, 1, 3, 2, 2, 1, 1, 1, 2, 2, 2, 1, 2, 2, 1, 3, 2, 3, 1, 1, 1, 1, 2, 2, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 3, 1, 3, 2, 1, 2, 4, 3, 2, 1, 2, 1, 2, 2, 2, 3, 2, 0, 3, 5, 4, 2, 1, 2, 3, 4, 3, 3, 4, 2, 3, 3, 1, 3, 2, 3, 2, 1, 3, 1, 2, 4, 2, 4, 2, 2, 2, 3, 2, 3, 5, 2, 2, 3, 1, 2, 3, 2, 4, 2, 2, 2, 4, 2, 3, 2, 3, 5, 1, 2, 3, 3, 1, 3, 3, 4, 1, 2, 1, 2, 2, 1, 1, 2, 3, 2, 4, 3, 2, 3, 1, 2, 1, 2, 2, 1, 3, 1, 2, 2, 1, 4, 2, 2, 3, 2, 2, 3, 3, 3, 5, 3, 2, 3, 3, 3, 4, 2, 3, 2, 2, 3, 2, 3, 1, 2, 2, 1, 2, 1, 1, 1, 1, 2, 4, 2, 2, 3, 2, 1, 4, 4, 1, 2, 2, 3, 3, 3, 2, 1, 2, 1, 3, 3, 1, 4, 1, 3, 1, 1, 1, 3, 1, 2, 5, 4, 1, 4, 4, 4, 1, 1, 3, 2, 4, 2, 4, 1, 3, 3, 3, 4, 4, 1, 2, 2, 2, 1, 1, 2, 2, 1, 3, 1, 3, 3, 3, 2, 3, 1, 5, 2, 2, 2, 2, 2, 1, 2, 2, 1, 3, 5, 2, 2, 4, 2, 3, 2, 2, 1, 2, 1, 3, 4, 2, 4, 1, 4, 3, 2, 1, 1, 1, 2, 3, 3, 1, 4, 1, 2, 1, 1, 4, 1, 4, 2, 1, 2, 3, 3, 5, 2, 2, 2, 2, 2, 1, 1, 3, 4, 1, 2, 1, 4, 1, 1, 1, 1, 1, 4, 2, 2, 2, 2, 2, 5, 1, 2, 2, 2, 2, 1, 1, 2]
+Personal Pronoun Count: 6
+Average Word Length: 4.368940016433854
+
+Positive Words:
+gains
+like
+huge
+easily
+comfort
+treat
+ability
+capable
+ability
+care.
+safely
+popular
+eased.
+care
+satisfaction
+Advantages
+better
+solution.
+help
+effective
+increased
+willingness
+increased
+willingness
+greater
+care,
+chance
+care
+improved
+important
+care
+care.
+interest
+solutions,
+interest
+solutions
+creating
+care
+improved
+proactive
+engagement
+important
+growing
+care
+improving
+benefit
+care.
+save
+progress
+improved
+care
+innovation.
+care
+growing
+challenges
+substantial
+opportunities
+growing?
+care
+comfortable
+care.
+urgent
+care
+care,
+solutions.
+important
+challenges
+opportunities
+ensure
+benefits
+creating
+care,
+care
+care
+best
+care
+creating
+merits
+energy
+challenges
+increase
+best
+profitable
+loyal
+opportunities
+well,
+accomplished
+chance,
+opportunity
+better
+
+Negative Words:
+emergency
+forced
+cancel
+problems
+pain
+fear
+frustration
+wasting
+useless
+serious
+problems
+difficult
+tragedy
+sick
+demand
+hard
+struck,
+shortage
+Lowering
+problems
+worsen
+crisis

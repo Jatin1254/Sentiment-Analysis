@@ -1,0 +1,66 @@
+Compound Score: 0.9985
+Polarity Score: 0.8749999817708337
+Positive Score: 45
+Negative Score: 3
+Subjectivity Score: 0.07999999986666667
+Average Sentence Length: 24.0
+Average Words Per Sentence: 24.0
+Complex Word Count: 155
+Percentage of Complex Words: 25.833333333333336
+Fog Index: 19.933333333333337
+Cleaned Word Count: 327
+Syllable Count Per Word: [1, 2, 1, 4, 1, 4, 1, 1, 2, 4, 2, 3, 2, 1, 1, 4, 2, 2, 2, 1, 3, 3, 5, 1, 1, 2, 4, 1, 3, 2, 4, 2, 1, 2, 2, 2, 2, 2, 3, 2, 2, 2, 1, 1, 1, 3, 2, 3, 2, 3, 2, 3, 1, 5, 2, 1, 4, 2, 2, 1, 3, 3, 3, 5, 4, 1, 2, 4, 2, 2, 2, 3, 1, 3, 2, 3, 4, 2, 5, 1, 3, 2, 2, 4, 2, 1, 3, 1, 5, 2, 1, 4, 2, 2, 3, 4, 2, 2, 2, 4, 2, 2, 1, 1, 3, 4, 3, 3, 3, 2, 1, 2, 3, 2, 4, 2, 2, 2, 4, 3, 2, 3, 4, 2, 3, 3, 1, 2, 2, 4, 3, 2, 3, 1, 1, 3, 3, 2, 1, 4, 2, 1, 5, 3, 1, 4, 1, 3, 1, 4, 3, 2, 3, 4, 2, 2, 3, 4, 2, 3, 3, 2, 2, 3, 3, 2, 2, 1, 4, 1, 2, 4, 2, 4, 1, 3, 4, 2, 2, 1, 2, 5, 2, 3, 4, 1, 2, 1, 1, 2, 3, 2, 1, 1, 2, 4, 1, 1, 4, 3, 4, 3, 3, 3, 3, 4, 1, 5, 1, 3, 4, 3, 1, 3, 1, 4, 1, 2, 1, 4, 2, 3, 1, 3, 4, 4, 3, 3, 2, 4, 2, 3, 3, 2, 3, 1, 2, 3, 6, 2, 1, 3, 6, 3, 2, 4, 3, 2, 5, 3, 6, 2, 3, 3, 1, 2, 2, 2, 3, 2, 3, 1, 2, 4, 2, 4, 3, 2, 2, 4, 4, 1, 1, 2, 3, 2, 4, 4, 4, 3, 5, 1, 2, 3, 1, 3, 1, 3, 2, 4, 2, 1, 2, 2, 2, 3, 2, 1, 3, 4, 3, 2, 4, 3, 5, 2, 3, 2, 1, 3, 4, 4, 3, 3, 3, 2, 3, 3, 2, 6, 2, 2, 4, 1, 2, 3, 1]
+Personal Pronoun Count: 3
+Average Word Length: 4.158333333333333
+
+Positive Words:
+care,
+improve
+efficient
+significant
+benefits
+increased
+care
+care
+beneficial
+useful
+care
+increase
+care
+care,
+improve
+efficiency
+easily
+share
+care.
+efficient
+effective
+ability
+improve
+help
+better
+effective
+improving
+help
+improved
+benefits
+significant,
+challenges
+important
+ensure
+protect
+Ensuring
+important
+significant
+increased
+care
+improved
+efficiency
+improve
+important
+challenges
+
+Negative Words:
+limited.
+difficult
+difficulty

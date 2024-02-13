@@ -1,0 +1,127 @@
+Compound Score: 0.9706
+Polarity Score: 0.08256880658193756
+Positive Score: 59
+Negative Score: 50
+Subjectivity Score: 0.07445355186171206
+Average Sentence Length: 23.238095238095237
+Average Words Per Sentence: 23.238095238095237
+Complex Word Count: 370
+Percentage of Complex Words: 25.273224043715846
+Fog Index: 19.404527712724434
+Cleaned Word Count: 904
+Syllable Count Per Word: [2, 1, 2, 2, 1, 3, 2, 3, 3, 2, 3, 3, 2, 2, 2, 3, 1, 2, 1, 2, 4, 3, 2, 3, 3, 3, 2, 4, 3, 3, 2, 3, 5, 3, 3, 2, 1, 2, 2, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 2, 1, 2, 2, 3, 4, 1, 1, 1, 5, 3, 2, 3, 5, 5, 3, 1, 1, 1, 3, 3, 3, 1, 1, 4, 2, 3, 2, 1, 2, 2, 3, 2, 3, 2, 3, 1, 4, 3, 4, 3, 2, 3, 2, 3, 2, 1, 4, 2, 4, 2, 3, 3, 3, 4, 2, 2, 3, 1, 3, 4, 3, 4, 2, 3, 2, 3, 2, 3, 3, 4, 3, 3, 4, 2, 3, 2, 3, 1, 3, 2, 3, 2, 3, 3, 3, 2, 2, 2, 3, 1, 1, 1, 3, 1, 3, 3, 2, 5, 4, 3, 5, 3, 2, 2, 4, 3, 3, 2, 2, 4, 2, 2, 2, 3, 3, 2, 4, 4, 4, 2, 2, 3, 3, 4, 2, 2, 3, 5, 3, 2, 3, 1, 3, 4, 3, 4, 2, 2, 1, 2, 1, 4, 2, 2, 3, 3, 1, 3, 3, 2, 3, 3, 3, 2, 4, 2, 2, 1, 3, 4, 2, 4, 3, 5, 3, 3, 2, 5, 5, 3, 2, 3, 2, 3, 1, 1, 3, 4, 2, 2, 2, 3, 3, 3, 5, 1, 1, 1, 2, 3, 2, 2, 2, 1, 2, 3, 4, 2, 4, 1, 3, 2, 2, 2, 3, 1, 2, 2, 4, 3, 2, 1, 2, 3, 2, 2, 3, 3, 4, 2, 3, 1, 2, 2, 4, 3, 1, 2, 2, 1, 2, 2, 1, 4, 1, 3, 4, 2, 3, 1, 2, 5, 1, 2, 1, 3, 1, 3, 1, 3, 1, 2, 2, 3, 2, 1, 1, 1, 2, 3, 1, 2, 2, 5, 3, 2, 3, 4, 3, 1, 4, 2, 2, 3, 2, 1, 1, 4, 1, 2, 3, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 5, 3, 2, 2, 2, 3, 3, 4, 3, 2, 2, 1, 2, 2, 1, 1, 3, 2, 1, 2, 3, 3, 2, 2, 3, 5, 2, 1, 2, 4, 2, 4, 3, 3, 3, 3, 4, 2, 2, 2, 4, 2, 2, 3, 3, 3, 2, 2, 2, 1, 1, 3, 1, 1, 2, 2, 1, 2, 3, 2, 1, 2, 2, 6, 2, 2, 2, 4, 3, 3, 2, 4, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 2, 3, 3, 3, 4, 3, 1, 3, 1, 5, 2, 2, 2, 2, 1, 3, 2, 3, 3, 2, 4, 5, 4, 4, 5, 3, 4, 3, 2, 3, 6, 2, 2, 3, 4, 1, 1, 2, 3, 3, 1, 2, 4, 2, 1, 1, 3, 3, 1, 2, 1, 2, 2, 3, 3, 2, 1, 1, 4, 2, 1, 1, 2, 2, 3, 2, 2, 5, 1, 2, 2, 3, 2, 4, 3, 1, 2, 2, 2, 4, 3, 3, 1, 3, 3, 1, 4, 2, 3, 2, 4, 2, 1, 1, 1, 2, 2, 4, 4, 4, 1, 3, 1, 3, 4, 1, 6, 1, 1, 4, 1, 4, 3, 2, 1, 4, 3, 4, 2, 2, 1, 3, 2, 2, 4, 2, 2, 3, 2, 1, 2, 1, 4, 2, 3, 2, 1, 1, 2, 1, 2, 2, 4, 1, 2, 2, 3, 2, 1, 1, 4, 1, 2, 2, 2, 3, 4, 2, 2, 3, 3, 4, 1, 2, 4, 3, 3, 1, 1, 2, 2, 1, 3, 1, 1, 1, 2, 1, 1, 2, 2, 1, 1, 3, 3, 3, 1, 1, 2, 2, 2, 3, 1, 1, 1, 1, 1, 1, 3, 4, 2, 1, 2, 2, 1, 1, 3, 3, 1, 1, 1, 3, 4, 1, 2, 4, 2, 1, 4, 2, 2, 1, 1, 2, 3, 5, 2, 2, 1, 2, 2, 2, 1, 2, 3, 3, 2, 3, 2, 2, 1, 1, 2, 1, 3, 2, 2, 3, 2, 3, 1, 3, 2, 2, 2, 1, 2, 4, 2, 2, 2, 3, 2, 2, 3, 4, 2, 2, 3, 2, 2, 2, 1, 2, 2, 2, 1, 1, 4, 3, 2, 2, 1, 1, 4, 4, 1, 2, 4, 2, 3, 1, 1, 2, 3, 1, 1, 3, 3, 1, 2, 1, 2, 2, 3, 1, 2, 1, 3, 1, 2, 3, 4, 3, 1, 2, 2, 1, 5, 4, 2, 1, 3, 5, 2, 4, 2, 3, 2, 2, 2, 1, 3, 2, 2, 1, 3, 2, 3, 4, 4, 3, 2, 5, 4, 2, 2, 1, 2, 1, 1, 1, 2, 1, 1, 2, 3, 1, 2, 2, 2, 2, 1, 4, 2, 1, 3, 1, 3, 2, 2, 3, 3, 1, 2, 1, 3, 4, 1, 1, 3, 2, 3, 3, 2, 5, 3, 3, 3, 2, 4, 2, 2, 3, 4, 2, 1, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 4, 2, 3, 1, 2, 1, 2, 2, 2, 5, 5, 3, 1, 2, 2, 4, 1, 3, 2, 4, 4, 2, 3, 1, 2, 2, 5, 5, 1, 2, 2, 4, 3, 4, 3, 3, 3, 3, 4, 4, 1, 4, 2, 5, 3, 3, 2, 2, 4, 4, 2, 2, 1, 2, 3, 1, 2, 2, 2, 1, 2, 1, 4, 1, 1, 1, 2, 4, 1, 2, 1, 2]
+Personal Pronoun Count: 0
+Average Word Length: 4.370218579234972
+
+Positive Words:
+played
+popular,
+stamina
+fitness,
+popular
+interest,
+encourage
+interests
+important
+important
+engage
+playing
+Interestingly,
+helpful.
+increased
+playing.
+playing.
+play
+playing
+improve
+playing.
+Playing
+fit
+increased
+United
+playing
+play
+playing
+playing
+gains
+support
+engaged
+playing
+engaged
+increase
+increase
+active
+play
+popular
+active
+beneficial
+increase
+active
+popular
+playing
+motivating
+playing
+clearly
+benefit
+value
+important
+beneficial
+Effective
+helping
+help
+emotional
+intelligence
+important
+playing
+
+Negative Words:
+limited
+disorder
+disorder
+contentious
+Disorder
+disorder.
+disorder
+disorder?
+disorder
+negative
+disorder
+disorder
+disorder
+disorder
+problems
+negative
+problems
+anxiety,
+depression,
+stress.
+risk
+problems
+strain
+problems
+problems.
+strain
+sufferers
+fault
+suffer
+problems.
+complaints
+complaints
+pain
+numbness
+problem
+sarcastically),
+problems
+problems
+lack
+demanding
+no
+overweight
+no
+choked
+death
+serious
+warnings
+risk
+disorder.
+disturbing

@@ -1,0 +1,153 @@
+Compound Score: 0.9995
+Polarity Score: 0.45185184850480115
+Positive Score: 98
+Negative Score: 37
+Subjectivity Score: 0.07512520863932931
+Average Sentence Length: 199.66666666666666
+Average Words Per Sentence: 199.66666666666666
+Complex Word Count: 279
+Percentage of Complex Words: 15.525876460767945
+Fog Index: 86.07701725097384
+Cleaned Word Count: 933
+Syllable Count Per Word: [1, 2, 2, 1, 1, 1, 2, 1, 3, 4, 3, 2, 1, 2, 1, 2, 1, 2, 3, 1, 2, 1, 3, 2, 2, 2, 1, 1, 2, 2, 1, 1, 1, 2, 3, 2, 5, 1, 1, 1, 1, 1, 1, 3, 2, 4, 3, 2, 3, 2, 1, 2, 2, 4, 4, 1, 1, 2, 1, 3, 3, 1, 3, 3, 1, 4, 2, 2, 2, 1, 4, 3, 2, 3, 4, 2, 3, 4, 2, 1, 3, 1, 1, 2, 1, 2, 1, 4, 1, 3, 4, 2, 1, 1, 1, 1, 2, 1, 2, 1, 2, 3, 2, 3, 2, 2, 2, 4, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 2, 2, 1, 3, 3, 3, 2, 2, 1, 1, 2, 2, 1, 1, 1, 2, 3, 2, 3, 1, 4, 3, 1, 1, 1, 3, 1, 3, 4, 1, 1, 1, 3, 4, 2, 4, 1, 1, 1, 2, 2, 2, 2, 1, 1, 1, 2, 2, 1, 2, 3, 2, 3, 2, 4, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 3, 4, 1, 3, 2, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 2, 1, 1, 2, 2, 2, 2, 1, 2, 2, 1, 4, 2, 2, 2, 3, 3, 1, 1, 2, 2, 3, 1, 2, 2, 3, 3, 2, 1, 1, 2, 3, 1, 1, 1, 2, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 3, 1, 1, 1, 2, 2, 2, 1, 1, 2, 2, 3, 3, 3, 2, 2, 1, 1, 3, 1, 2, 3, 2, 5, 3, 2, 4, 4, 4, 4, 2, 1, 3, 5, 7, 3, 2, 4, 1, 4, 4, 2, 4, 3, 1, 1, 4, 1, 3, 3, 1, 2, 3, 3, 2, 2, 2, 3, 4, 2, 4, 2, 3, 1, 2, 2, 3, 3, 2, 4, 1, 2, 4, 1, 2, 3, 1, 1, 2, 1, 2, 2, 2, 2, 1, 5, 2, 1, 3, 1, 2, 1, 1, 1, 1, 1, 2, 1, 3, 2, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 4, 1, 1, 2, 3, 1, 2, 2, 2, 2, 1, 2, 1, 1, 1, 1, 2, 4, 1, 2, 1, 1, 1, 1, 2, 1, 4, 1, 2, 2, 1, 3, 4, 1, 2, 1, 2, 1, 1, 1, 1, 3, 5, 3, 3, 1, 1, 2, 2, 3, 5, 1, 3, 3, 3, 2, 2, 4, 4, 1, 2, 1, 4, 2, 1, 2, 4, 4, 1, 1, 1, 4, 5, 1, 3, 2, 4, 4, 4, 1, 4, 1, 1, 2, 1, 1, 2, 1, 1, 1, 2, 3, 3, 1, 2, 1, 1, 2, 3, 3, 2, 2, 4, 4, 1, 1, 4, 2, 2, 2, 1, 2, 2, 1, 3, 1, 3, 1, 2, 2, 1, 5, 1, 1, 2, 1, 4, 1, 3, 3, 2, 2, 2, 2, 1, 1, 1, 1, 1, 4, 1, 1, 3, 3, 4, 2, 1, 4, 2, 2, 3, 2, 3, 4, 1, 2, 2, 1, 4, 2, 3, 2, 1, 4, 1, 4, 1, 4, 1, 2, 3, 1, 1, 1, 1, 2, 2, 2, 2, 4, 1, 4, 1, 4, 4, 2, 2, 2, 4, 1, 1, 1, 4, 4, 2, 2, 1, 1, 1, 1, 1, 1, 5, 2, 2, 3, 1, 1, 2, 2, 1, 1, 1, 4, 2, 1, 4, 1, 2, 1, 1, 2, 4, 4, 2, 3, 3, 2, 3, 2, 2, 3, 2, 1, 3, 1, 1, 3, 1, 2, 3, 1, 4, 1, 2, 1, 2, 4, 2, 3, 4, 2, 4, 2, 4, 4, 2, 2, 2, 3, 1, 1, 1, 2, 1, 1, 1, 2, 1, 2, 3, 1, 1, 1, 1, 1, 2, 2, 4, 2, 1, 1, 1, 1, 1, 2, 2, 3, 2, 1, 2, 3, 3, 3, 2, 2, 2, 2, 2, 2, 1, 1, 3, 2, 2, 1, 5, 3, 1, 3, 1, 4, 2, 3, 3, 2, 5, 3, 4, 4, 2, 1, 3, 2, 3, 1, 3, 2, 1, 2, 1, 2, 3, 2, 2, 4, 1, 3, 3, 2, 2, 1, 2, 2, 4, 2, 2, 4, 2, 2, 4, 1, 3, 3, 2, 3, 2, 3, 3, 2, 1, 2, 4, 3, 3, 4, 4, 2, 2, 2, 2, 3, 2, 4, 2, 1, 2, 2, 1, 1, 1, 2, 2, 4, 4, 2, 1, 3, 3, 5, 2, 4, 1, 1, 3, 3, 2, 2, 2, 4, 1, 3, 4, 2, 1, 1, 1, 4, 1, 1, 4, 1, 1, 2, 2, 1, 3, 2, 1, 1, 1, 3, 2, 5, 2, 1, 2, 3, 1, 1, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1, 1, 1, 3, 2, 4, 3, 2, 1, 4, 3, 1, 2, 2, 2, 3, 1, 1, 3, 4, 1, 1, 1, 4, 2, 3, 3, 4, 4, 2, 1, 3, 3, 2, 2, 1, 3, 3, 1, 1, 2, 3, 2, 1, 1, 3, 3, 2, 2, 2, 2, 2, 3, 2, 1, 2, 3, 2, 1, 2, 2, 1, 2, 3, 2, 1, 2, 2, 2, 2, 2, 1, 1, 4, 4, 1, 1, 1, 2, 1, 2, 4, 2, 2, 1, 1, 2, 1, 4, 1, 1, 2, 2, 3, 1, 4, 2, 2, 1, 2, 4, 1, 3, 2, 3, 2, 1, 1, 2, 4, 2, 1, 1, 2, 2, 4, 3, 1, 1, 4, 1, 3, 2, 1, 2, 1, 1, 1, 2, 2, 3, 5, 2, 6]
+Personal Pronoun Count: 14
+Average Word Length: 3.35559265442404
+
+Positive Words:
+better
+kind
+pretty
+improvements
+intelligence
+important
+important
+benefits
+like
+like
+number
+easier
+better
+like
+powerful
+important
+responsible
+growth
+want
+created
+helping
+better
+better
+help
+better
+safer
+value
+like
+improved
+improved
+improve
+rich
+advanced
+launched
+vision
+ability
+better
+help
+Like
+well
+like
+creative
+important
+intelligence
+progress
+important
+like
+create
+help
+intelligence
+innovative
+creative
+shared
+creative
+innovation
+true
+like
+innovation
+creativity
+good
+creative
+creative
+intelligence
+creative
+top
+creative
+effective
+accept
+responsible
+help
+challenges
+like
+great
+opportunity
+attract
+allow
+good
+benefit
+committing
+important
+important
+like
+ethical
+like
+safety
+progress
+engage
+like
+agreement
+engage
+intelligence
+proactive
+solve
+intelligence
+brilliant
+intelligent
+smart
+prepared
+
+Negative Words:
+doomsday
+irresponsible.
+downside
+no
+sick
+ass
+negative
+pessimistic,
+warned
+threat
+loss
+vulnerable
+risk
+hard
+unhappy
+risk
+risk
+risk
+risk
+risk
+risk
+distracted
+risks
+lower
+lower
+demanding
+limited
+dominate
+alone
+distraction
+risks
+hard
+threat
+threat
+problem
+threaten
+terrible

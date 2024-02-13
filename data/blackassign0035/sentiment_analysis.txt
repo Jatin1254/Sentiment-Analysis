@@ -1,0 +1,56 @@
+Compound Score: 0.9936
+Polarity Score: 0.578947353185596
+Positive Score: 30
+Negative Score: 8
+Subjectivity Score: 0.05234159772404739
+Average Sentence Length: 15.446808510638299
+Average Words Per Sentence: 15.446808510638299
+Complex Word Count: 164
+Percentage of Complex Words: 22.58953168044077
+Fog Index: 15.214536076431628
+Cleaned Word Count: 405
+Syllable Count Per Word: [2, 3, 1, 2, 3, 1, 1, 3, 3, 1, 1, 3, 1, 3, 1, 3, 2, 3, 1, 4, 1, 2, 4, 3, 2, 3, 2, 3, 3, 5, 3, 3, 2, 1, 2, 3, 1, 1, 1, 2, 6, 2, 2, 2, 3, 1, 3, 3, 4, 3, 1, 2, 2, 1, 3, 3, 2, 2, 2, 1, 2, 3, 3, 1, 1, 1, 1, 5, 2, 2, 1, 2, 4, 1, 3, 1, 1, 1, 3, 2, 3, 2, 1, 1, 2, 3, 1, 2, 5, 2, 1, 2, 2, 1, 4, 2, 3, 2, 2, 2, 1, 3, 3, 1, 3, 3, 1, 4, 3, 2, 1, 3, 2, 2, 2, 2, 2, 2, 4, 3, 2, 4, 4, 2, 2, 1, 2, 2, 1, 4, 4, 3, 2, 2, 2, 3, 2, 3, 2, 3, 2, 2, 3, 2, 3, 2, 3, 2, 2, 1, 2, 2, 3, 3, 2, 4, 3, 1, 2, 3, 2, 2, 3, 2, 2, 2, 3, 1, 2, 3, 2, 2, 2, 1, 3, 3, 2, 3, 1, 3, 2, 2, 2, 1, 3, 1, 2, 1, 1, 3, 1, 2, 4, 2, 2, 4, 2, 1, 4, 2, 4, 3, 4, 3, 2, 3, 2, 3, 1, 2, 1, 2, 3, 2, 1, 1, 1, 2, 2, 1, 2, 1, 5, 1, 1, 3, 4, 3, 1, 1, 6, 1, 2, 1, 3, 2, 2, 1, 4, 3, 1, 3, 2, 2, 3, 3, 1, 3, 1, 1, 4, 2, 1, 4, 3, 1, 3, 4, 5, 3, 3, 3, 2, 3, 2, 3, 1, 1, 3, 2, 2, 2, 4, 1, 1, 3, 3, 1, 3, 3, 2, 1, 1, 4, 1, 3, 2, 1, 2, 3, 5, 2, 1, 1, 3, 2, 4, 3, 4, 2, 3, 1, 3, 1, 2, 2, 3, 3, 4, 2, 1, 1, 1, 4, 4, 2, 1, 3, 2, 3, 4, 3, 1, 1, 4, 1, 3, 2, 2, 1, 3, 1, 1, 1, 3, 5, 3, 3, 2, 3, 2, 3, 1, 1, 1, 2, 6, 2, 3, 1, 3, 1, 1, 4, 3, 2, 2, 1, 2, 2, 3, 1, 1, 1, 3, 4, 3, 1, 3, 2, 3, 2, 2, 1, 1, 2, 1, 1, 2, 3, 2, 2, 3, 3, 1, 1, 3, 2, 1, 1, 3, 3, 4, 3, 2, 2, 1, 1, 1, 2, 2, 2, 3, 3, 2]
+Personal Pronoun Count: 7
+Average Word Length: 3.757575757575758
+
+Positive Words:
+created
+flawlessly,
+easier
+help
+create
+great
+opportunities
+better
+like
+peacefully.
+increase
+heart
+wisdom
+creativity,
+abilities,
+novel,
+effective
+Smart
+helping
+expand
+abilities
+strengths;
+free
+extend
+significant
+improvement
+abilities,
+created
+good
+good
+
+Negative Words:
+incapable
+demand
+difficult.
+difficult.
+fear
+dehumanize
+repetitive
+demand

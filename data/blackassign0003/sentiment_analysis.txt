@@ -1,0 +1,109 @@
+Compound Score: 0.9971
+Polarity Score: 0.296703293442821
+Positive Score: 59
+Negative Score: 32
+Subjectivity Score: 0.08617424234263801
+Average Sentence Length: 18.526315789473685
+Average Words Per Sentence: 18.526315789473685
+Complex Word Count: 352
+Percentage of Complex Words: 33.33333333333333
+Fog Index: 20.743859649122808
+Cleaned Word Count: 663
+Syllable Count Per Word: [4, 1, 3, 3, 3, 3, 4, 3, 3, 1, 2, 2, 1, 1, 2, 3, 5, 3, 1, 3, 5, 1, 4, 3, 1, 2, 3, 3, 5, 1, 5, 2, 2, 2, 2, 2, 2, 2, 1, 1, 4, 3, 2, 2, 2, 5, 2, 2, 3, 2, 3, 3, 2, 3, 3, 3, 2, 5, 3, 4, 2, 1, 2, 5, 2, 3, 4, 1, 5, 3, 3, 1, 1, 3, 2, 3, 3, 2, 4, 2, 3, 2, 1, 2, 2, 1, 2, 2, 1, 2, 5, 2, 2, 4, 3, 3, 2, 2, 4, 4, 3, 3, 3, 4, 2, 2, 2, 4, 4, 1, 3, 2, 3, 2, 3, 1, 2, 1, 2, 2, 5, 2, 2, 2, 5, 2, 2, 3, 4, 2, 6, 2, 4, 5, 1, 3, 3, 1, 1, 4, 3, 2, 5, 2, 5, 1, 2, 2, 3, 2, 5, 5, 3, 4, 3, 2, 1, 2, 5, 3, 4, 1, 4, 4, 2, 4, 3, 3, 2, 2, 3, 5, 1, 3, 3, 2, 5, 2, 4, 2, 5, 4, 3, 1, 3, 2, 3, 4, 2, 3, 3, 1, 5, 4, 3, 4, 3, 4, 2, 3, 4, 3, 3, 3, 4, 6, 4, 2, 2, 3, 1, 2, 3, 4, 3, 2, 3, 1, 1, 5, 1, 4, 4, 2, 5, 2, 4, 1, 1, 2, 3, 1, 3, 3, 5, 2, 4, 2, 1, 3, 4, 3, 1, 4, 2, 3, 6, 4, 3, 2, 3, 1, 2, 5, 3, 3, 2, 2, 4, 4, 4, 1, 1, 3, 3, 2, 4, 1, 3, 4, 3, 1, 4, 3, 4, 2, 3, 2, 1, 1, 3, 3, 2, 4, 1, 2, 1, 2, 4, 2, 3, 3, 3, 2, 1, 2, 3, 2, 2, 2, 2, 1, 4, 4, 3, 2, 2, 2, 2, 2, 2, 3, 4, 3, 3, 4, 2, 1, 3, 4, 3, 2, 2, 3, 2, 2, 2, 5, 2, 4, 3, 2, 1, 3, 5, 2, 1, 3, 2, 3, 2, 1, 3, 3, 2, 4, 1, 2, 4, 4, 2, 4, 2, 3, 5, 2, 2, 2, 4, 4, 1, 1, 5, 4, 4, 5, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 3, 4, 2, 4, 1, 3, 4, 5, 2, 2, 2, 3, 2, 3, 4, 2, 3, 3, 3, 5, 2, 3, 5, 4, 4, 5, 2, 3, 3, 3, 1, 4, 5, 5, 2, 1, 2, 5, 2, 2, 2, 2, 4, 3, 2, 2, 3, 2, 3, 4, 3, 1, 2, 1, 2, 1, 2, 1, 3, 3, 3, 3, 1, 3, 2, 2, 2, 1, 4, 4, 4, 2, 1, 1, 4, 2, 3, 5, 4, 4, 2, 3, 1, 3, 4, 2, 3, 1, 5, 2, 5, 2, 4, 2, 4, 2, 3, 3, 4, 2, 2, 2, 2, 2, 2, 4, 3, 3, 6, 4, 4, 2, 1, 2, 3, 4, 2, 4, 5, 3, 4, 2, 6, 3, 2, 2, 1, 4, 4, 4, 2, 5, 3, 2, 5, 2, 3, 2, 5, 1, 2, 1, 1, 1, 2, 5, 1, 1, 3, 2, 3, 1, 1, 2, 5, 2, 4, 3, 3, 2, 5, 4, 1, 4, 4, 1, 3, 3, 2, 2, 2, 3, 2, 4, 4, 6, 3, 5, 2, 3, 5, 5, 1, 2, 2, 4, 3, 2, 1, 2, 3, 2, 1, 2, 1, 2, 1, 2, 5, 4, 6, 1, 2, 2, 5, 3, 5, 2, 1, 3, 2, 2, 1, 1, 3, 1, 3, 2, 4, 2, 5, 2, 1, 5, 5, 3, 3, 2, 2, 4, 4, 2, 3, 1, 4, 3, 4, 2, 5, 2, 1, 2, 4, 4, 2, 3, 2, 1, 2, 4, 1, 1, 3, 2, 1, 5, 6, 4, 2, 1, 1, 5, 2, 3, 4, 3, 3, 3, 2, 1, 2, 3, 2, 1, 2, 5, 2, 2, 1, 4, 5, 4, 3, 3, 2, 5, 1]
+Personal Pronoun Count: 13
+Average Word Length: 5.06344696969697
+
+Positive Words:
+astounding
+promising
+poised
+intricate
+dynamics,
+increase
+growing
+growth
+smart
+engaging
+entertainment,
+dynamics.
+entertainment
+engagement.
+Challenges
+increase
+challenges.
+well
+security.
+ensuring
+integrity
+robust
+security
+Challenges
+promising,
+challenges.
+security
+responsible
+robust
+protect
+ensure
+ethical
+solutions.
+security
+hand,
+creating
+challenges,
+promising
+solution.
+security
+challenge
+valuable
+promise
+challenges
+security
+innovate
+growing
+security,
+challenges
+security
+innovative
+solutions.
+innovate.
+security
+ethical
+values
+creating
+innovation,
+responsible
+
+Negative Words:
+demand
+limited
+hurtle
+demand
+demand,
+Unstoppable
+demand.
+demand
+demand
+demand
+lag
+demand
+demand
+lag
+obsolete.
+Strain
+demand
+struggle
+threats
+demand,
+struggle
+demand
+risk
+failure.
+limited
+vulnerabilities
+demand
+strained
+vulnerabilities,
+demand.
+demand,
+strained

@@ -1,0 +1,106 @@
+Compound Score: -0.9963
+Polarity Score: -0.13636363481404962
+Positive Score: 38
+Negative Score: 50
+Subjectivity Score: 0.06442166905972059
+Average Sentence Length: 23.551724137931036
+Average Words Per Sentence: 23.551724137931036
+Complex Word Count: 262
+Percentage of Complex Words: 19.1800878477306
+Fog Index: 17.092724794264655
+Cleaned Word Count: 765
+Syllable Count Per Word: [2, 1, 3, 2, 3, 1, 1, 2, 3, 2, 2, 2, 4, 4, 2, 1, 1, 2, 1, 2, 4, 4, 2, 1, 1, 1, 2, 3, 1, 3, 2, 1, 2, 1, 2, 2, 3, 2, 3, 1, 2, 1, 2, 3, 1, 1, 5, 2, 1, 1, 2, 3, 1, 2, 2, 3, 2, 1, 2, 3, 2, 2, 2, 2, 1, 3, 2, 2, 3, 4, 3, 2, 4, 1, 2, 1, 1, 3, 3, 5, 2, 2, 1, 2, 1, 2, 2, 1, 2, 5, 1, 5, 1, 1, 3, 3, 2, 2, 1, 2, 2, 4, 1, 1, 3, 1, 2, 1, 2, 1, 2, 3, 4, 1, 3, 3, 2, 2, 1, 3, 1, 2, 2, 2, 1, 1, 2, 3, 4, 2, 3, 2, 2, 3, 2, 2, 2, 1, 2, 3, 2, 1, 1, 3, 1, 3, 5, 1, 3, 2, 2, 2, 3, 1, 2, 5, 1, 4, 2, 2, 4, 2, 3, 2, 3, 5, 2, 3, 2, 1, 2, 2, 2, 2, 4, 2, 3, 3, 2, 4, 2, 4, 2, 2, 6, 2, 3, 3, 2, 2, 3, 4, 1, 3, 1, 3, 2, 6, 2, 1, 2, 2, 2, 1, 3, 2, 3, 2, 1, 2, 2, 1, 2, 3, 1, 2, 2, 3, 1, 4, 2, 2, 2, 1, 3, 1, 1, 1, 3, 3, 1, 5, 4, 3, 1, 3, 2, 1, 2, 2, 4, 3, 2, 1, 3, 1, 2, 2, 2, 2, 2, 1, 4, 1, 1, 2, 3, 2, 2, 1, 1, 4, 4, 1, 4, 3, 2, 3, 1, 2, 2, 2, 4, 3, 2, 2, 2, 3, 2, 2, 2, 1, 3, 3, 1, 2, 2, 2, 1, 1, 3, 1, 4, 1, 3, 2, 2, 2, 1, 2, 3, 1, 4, 2, 2, 3, 4, 2, 4, 1, 3, 2, 3, 2, 2, 1, 4, 1, 5, 2, 1, 2, 3, 1, 3, 1, 3, 1, 2, 2, 2, 2, 1, 3, 2, 4, 3, 3, 3, 1, 2, 3, 4, 4, 3, 3, 2, 3, 4, 4, 5, 2, 3, 2, 3, 1, 3, 1, 1, 1, 1, 2, 3, 2, 3, 2, 4, 2, 2, 1, 3, 3, 2, 3, 2, 3, 1, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 1, 1, 2, 3, 4, 3, 5, 3, 2, 3, 1, 1, 2, 1, 2, 2, 4, 2, 2, 2, 1, 3, 2, 4, 2, 4, 3, 1, 2, 3, 4, 2, 2, 1, 1, 1, 3, 2, 2, 2, 2, 2, 1, 2, 1, 1, 3, 1, 2, 2, 3, 2, 3, 3, 2, 2, 2, 2, 2, 3, 2, 2, 1, 5, 1, 3, 1, 2, 4, 2, 1, 2, 3, 1, 3, 4, 2, 2, 4, 2, 3, 4, 2, 2, 2, 1, 2, 1, 1, 4, 2, 2, 2, 2, 1, 2, 1, 2, 2, 2, 1, 3, 2, 3, 2, 1, 3, 1, 2, 4, 2, 2, 3, 1, 1, 1, 2, 3, 4, 2, 2, 4, 2, 1, 2, 2, 3, 4, 1, 2, 2, 3, 5, 2, 4, 1, 2, 2, 4, 4, 2, 1, 4, 3, 1, 4, 3, 2, 2, 1, 2, 2, 2, 4, 2, 3, 2, 2, 2, 4, 2, 2, 2, 2, 2, 4, 2, 1, 2, 1, 2, 2, 3, 3, 1, 2, 3, 1, 3, 2, 3, 2, 4, 1, 2, 2, 2, 1, 3, 2, 2, 2, 1, 2, 2, 2, 4, 2, 1, 1, 2, 2, 2, 3, 1, 2, 3, 1, 2, 2, 2, 1, 2, 3, 2, 2, 3, 2, 3, 2, 3, 4, 4, 2, 3, 3, 3, 1, 2, 3, 2, 2, 3, 1, 2, 1, 2, 3, 3, 1, 3, 3, 1, 2, 2, 2, 4, 2, 2, 4, 3, 3, 1, 3, 1, 4, 4, 1, 1, 2, 4, 3, 3, 3, 1, 3, 1, 1, 2, 2, 2, 3, 3, 5, 3, 3, 3, 1, 3, 4, 2, 3, 1, 3, 1, 3, 1, 0, 2, 4, 2, 3, 1, 3, 4, 4, 1, 3, 2, 1, 1, 2, 3, 2, 1, 2, 2, 2, 3, 2, 2, 2, 1, 2, 4, 1, 4, 2, 3, 3, 1, 3, 1, 3, 2, 1, 2, 1, 2, 1, 1, 1, 1, 2, 2, 2, 1, 2, 2, 1, 2, 1, 2, 1, 4, 1, 1, 1, 2, 2, 2, 2, 1, 2, 2, 2, 1, 2, 2, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 3, 1, 2, 2, 2, 1, 3, 1, 1]
+Personal Pronoun Count: 2
+Average Word Length: 3.808199121522694
+
+Positive Words:
+significant
+important
+positive
+like,
+well
+like
+important
+challenges
+well
+United
+increase
+created
+like
+number
+creating
+warming
+protected
+greater
+protected
+like
+protected
+increase
+like
+significant
+protected
+like
+increase
+increase
+solid
+well
+like
+top
+responsible
+stronger
+like
+safe,
+beauty
+sure
+
+Negative Words:
+forced
+infected
+imposing
+adverse
+unwanted
+adverse
+harm
+negative
+waste
+suspended
+ban
+demand
+waste-
+waste
+waste
+harm
+demand
+dangerous
+lying
+discarded.
+discarding,
+dangerous
+degrading
+vulnerable
+risk
+dumped
+decays
+risk
+affected
+careless
+affected.
+risks
+illegal
+illegal
+drop
+no
+problems
+cancer
+damages
+waste).
+waste
+Spite
+crash
+threats
+loss,
+illegal
+empty
+avoid
+leave
+avoid

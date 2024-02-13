@@ -1,0 +1,75 @@
+Compound Score: 0.9817
+Polarity Score: 0.3684210461680518
+Positive Score: 39
+Negative Score: 18
+Subjectivity Score: 0.06559263513740779
+Average Sentence Length: 17.73469387755102
+Average Words Per Sentence: 17.73469387755102
+Complex Word Count: 203
+Percentage of Complex Words: 23.36018411967779
+Fog Index: 16.437951198891522
+Cleaned Word Count: 538
+Syllable Count Per Word: [5, 6, 1, 1, 4, 3, 2, 2, 1, 3, 1, 2, 1, 3, 3, 1, 2, 3, 2, 2, 2, 2, 1, 1, 1, 3, 2, 2, 2, 2, 1, 3, 1, 2, 1, 1, 2, 1, 1, 3, 2, 3, 3, 3, 1, 4, 2, 3, 4, 3, 2, 2, 2, 2, 5, 2, 1, 2, 3, 1, 3, 1, 3, 1, 1, 1, 1, 1, 5, 2, 6, 1, 3, 1, 3, 2, 2, 4, 1, 3, 1, 2, 3, 1, 1, 3, 3, 2, 1, 2, 3, 1, 3, 2, 1, 3, 3, 2, 1, 1, 3, 2, 2, 1, 2, 4, 2, 2, 2, 2, 1, 2, 2, 1, 2, 2, 3, 2, 4, 3, 1, 4, 2, 2, 4, 5, 1, 5, 2, 2, 3, 1, 1, 5, 3, 1, 5, 2, 3, 1, 3, 2, 2, 3, 3, 3, 2, 2, 3, 1, 3, 1, 4, 3, 2, 2, 3, 4, 2, 2, 1, 3, 2, 2, 2, 1, 1, 3, 2, 3, 2, 1, 2, 3, 3, 3, 1, 1, 2, 3, 1, 1, 1, 4, 3, 1, 2, 1, 2, 1, 1, 1, 3, 4, 3, 3, 2, 2, 3, 3, 3, 5, 3, 1, 2, 1, 1, 2, 1, 2, 2, 3, 2, 4, 2, 3, 4, 3, 4, 1, 3, 2, 2, 1, 1, 1, 3, 2, 1, 1, 3, 3, 2, 1, 4, 3, 2, 1, 1, 2, 2, 2, 5, 2, 1, 1, 3, 3, 2, 3, 2, 3, 2, 2, 2, 3, 1, 2, 2, 1, 3, 1, 2, 1, 3, 4, 2, 3, 6, 3, 3, 4, 3, 3, 3, 3, 3, 3, 3, 2, 3, 2, 2, 2, 1, 2, 1, 4, 2, 1, 2, 1, 2, 1, 2, 1, 2, 3, 1, 2, 3, 3, 2, 3, 3, 3, 2, 2, 3, 3, 4, 3, 4, 5, 3, 3, 2, 1, 3, 3, 2, 4, 3, 1, 3, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 2, 3, 3, 2, 2, 3, 1, 3, 5, 1, 2, 1, 2, 2, 6, 4, 1, 1, 1, 3, 1, 3, 1, 2, 2, 2, 3, 3, 2, 1, 2, 1, 1, 3, 2, 2, 3, 1, 1, 2, 4, 4, 3, 2, 4, 3, 2, 3, 3, 2, 4, 2, 1, 3, 1, 2, 1, 2, 2, 1, 1, 3, 1, 3, 2, 1, 2, 2, 1, 4, 2, 2, 2, 2, 1, 4, 1, 1, 2, 1, 1, 1, 2, 1, 2, 2, 2, 2, 3, 4, 1, 1, 2, 2, 4, 2, 2, 1, 5, 1, 3, 2, 1, 2, 3, 3, 4, 1, 3, 4, 2, 1, 1, 1, 1, 2, 4, 2, 1, 2, 3, 1, 3, 2, 2, 2, 3, 2, 1, 2, 2, 2, 2, 4, 1, 3, 3, 1, 2, 1, 1, 2, 3, 2, 2, 3, 1, 1, 1, 2, 2, 3, 3, 1, 3, 3, 4, 3, 2, 2, 4, 2, 3, 2, 3, 3, 5, 1, 3, 4, 5, 2, 1, 4, 4, 2, 3, 1, 1, 5, 1, 3, 1, 1, 2, 1, 1, 2, 2, 2, 3, 2, 1, 1, 3, 3, 2, 3, 4]
+Personal Pronoun Count: 1
+Average Word Length: 4.16915995397008
+
+Positive Words:
+increase.
+growing
+number
+number
+growth
+significant
+popularity
+like
+friendliness,
+gaining
+increase
+interest
+ambitious
+fulfill
+reached
+greatest
+increase
+energy
+truly
+beneficial.
+effective
+save
+Greater
+Efficiency,
+best
+increase
+optimal
+superior
+fantastic
+save
+support
+stable
+healthy
+like
+number
+improved
+good
+good
+protect
+
+Negative Words:
+restricted
+worst
+crisis
+bad
+worsened
+obstacles
+limited
+lack
+demand.
+demand
+smog,
+harmed
+no
+no
+cut
+damage
+low
+no

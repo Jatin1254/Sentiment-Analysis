@@ -1,0 +1,105 @@
+Compound Score: 0.9995
+Polarity Score: 0.5862068898137139
+Positive Score: 69
+Negative Score: 18
+Subjectivity Score: 0.0706168830595642
+Average Sentence Length: 21.24137931034483
+Average Words Per Sentence: 21.24137931034483
+Complex Word Count: 226
+Percentage of Complex Words: 18.344155844155843
+Fog Index: 15.834214061800271
+Cleaned Word Count: 667
+Syllable Count Per Word: [3, 4, 2, 1, 1, 1, 3, 4, 2, 2, 1, 1, 1, 3, 1, 1, 2, 2, 1, 4, 1, 1, 2, 2, 2, 3, 4, 2, 3, 2, 4, 2, 2, 4, 1, 4, 1, 2, 3, 2, 4, 4, 1, 1, 2, 2, 2, 1, 3, 2, 1, 3, 3, 2, 4, 1, 2, 4, 0, 2, 4, 2, 1, 2, 3, 1, 5, 1, 2, 1, 2, 2, 2, 3, 1, 1, 1, 2, 1, 4, 3, 2, 3, 0, 3, 2, 3, 5, 3, 1, 2, 3, 1, 4, 1, 2, 5, 1, 4, 4, 1, 2, 1, 2, 2, 1, 2, 1, 3, 1, 4, 3, 1, 1, 3, 2, 3, 2, 2, 2, 2, 1, 2, 1, 1, 4, 3, 2, 2, 1, 3, 3, 2, 1, 3, 5, 3, 1, 2, 2, 4, 2, 2, 2, 3, 2, 2, 2, 3, 2, 1, 4, 3, 2, 4, 1, 3, 2, 3, 2, 1, 0, 4, 4, 1, 5, 1, 3, 1, 1, 3, 2, 1, 2, 1, 2, 1, 4, 1, 2, 1, 2, 2, 1, 2, 3, 1, 1, 3, 2, 4, 1, 3, 3, 2, 5, 4, 1, 2, 1, 3, 3, 2, 3, 2, 3, 3, 3, 2, 1, 2, 4, 4, 1, 1, 2, 3, 3, 2, 1, 2, 3, 1, 2, 2, 1, 2, 1, 2, 2, 1, 4, 4, 2, 2, 3, 2, 2, 3, 2, 3, 1, 2, 1, 2, 2, 3, 1, 2, 3, 1, 1, 2, 2, 2, 1, 2, 1, 2, 2, 3, 1, 1, 1, 4, 1, 1, 1, 2, 3, 3, 1, 3, 1, 2, 2, 1, 2, 2, 2, 2, 1, 6, 2, 2, 3, 2, 2, 2, 1, 5, 0, 1, 2, 4, 4, 5, 2, 3, 1, 1, 2, 4, 4, 2, 2, 3, 1, 2, 2, 2, 2, 2, 3, 1, 4, 2, 1, 4, 2, 1, 2, 4, 2, 2, 4, 3, 2, 2, 3, 2, 4, 1, 4, 1, 2, 1, 3, 2, 2, 4, 2, 1, 5, 2, 4, 4, 2, 2, 1, 1, 2, 2, 3, 3, 4, 1, 1, 1, 4, 1, 3, 2, 2, 1, 1, 3, 1, 3, 1, 4, 2, 2, 1, 1, 2, 2, 2, 1, 2, 1, 3, 1, 2, 1, 4, 3, 1, 3, 3, 2, 2, 1, 3, 2, 3, 1, 2, 2, 1, 1, 2, 5, 2, 2, 3, 2, 2, 4, 2, 3, 1, 2, 2, 4, 2, 3, 2, 4, 1, 4, 2, 5, 3, 5, 2, 1, 3, 1, 3, 2, 2, 2, 1, 2, 1, 3, 4, 1, 2, 2, 2, 3, 3, 3, 2, 4, 3, 1, 2, 2, 2, 2, 2, 4, 2, 3, 2, 3, 1, 0, 1, 2, 0, 3, 2, 2, 1, 3, 1, 3, 2, 2, 1, 1, 3, 4, 1, 4, 3, 1, 5, 2, 3, 1, 2, 1, 3, 5, 4, 3, 2, 1, 2, 1, 2, 1, 3, 4, 4, 3, 3, 3, 1, 1, 1, 1, 1, 1, 2, 1, 1, 4, 3, 1, 1, 4, 4, 1, 2, 2, 1, 2, 1, 4, 4, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 4, 2, 2, 2, 3, 1, 1, 1, 3, 2, 1, 1, 3, 2, 3, 1, 4, 3, 2, 3, 2, 3, 3, 3, 1, 2, 3, 6, 1, 2, 1, 1, 1, 1, 4, 2, 1, 1, 1, 1, 1, 2, 3, 3, 4, 1, 0, 3, 3, 0, 1, 1, 1, 4, 2, 4, 2, 2, 2, 1, 1, 1, 1, 2, 2, 2, 2, 4, 2, 2, 1, 3, 1, 2, 1, 1, 1, 1, 2, 1, 1, 4, 2, 1, 1, 1, 1, 1, 2, 3, 1, 3, 4, 3, 1, 1, 1, 1, 2, 3, 2, 2, 1, 2, 1, 3, 3, 1, 1, 2, 2, 3, 3, 3, 4, 4, 3, 1, 3, 2, 4, 3, 4, 1, 2, 3, 1, 4, 2, 4]
+Personal Pronoun Count: 13
+Average Word Length: 3.6112012987012987
+
+Positive Words:
+creates
+certain
+creating
+creates
+create
+intelligence
+free,
+help
+save
+best
+like
+like
+Intelligence
+yes,
+efficient
+growing
+smarter
+efficiently
+clearly
+Amazon
+efficiently
+increased
+Amazon
+efficient
+Amazon
+like
+greater
+better
+creativity,
+flexibility.
+improve
+efficiency
+improve
+true
+ideal
+greater
+efficiency
+greater
+intelligence
+superior
+intelligence,
+ability
+challenges
+play
+important
+solving
+cleaner,
+greater
+security
+comfort.
+clear
+Smart
+strength,
+capable
+straight
+like
+well,
+creating
+certain
+strong
+growing
+creating
+smarter,
+better
+perfectly
+flawlessly;
+smarter
+play
+successful
+
+Negative Words:
+disruptive
+leave
+disruptive
+tough
+difficult
+threat
+threat
+cutting
+no
+repetitive
+lower
+risk
+accidents,
+lost
+catastrophic
+failure,
+crash
+mess

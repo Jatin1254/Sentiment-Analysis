@@ -1,0 +1,57 @@
+Compound Score: 0.9967
+Polarity Score: 0.7948717744904674
+Positive Score: 35
+Negative Score: 4
+Subjectivity Score: 0.07116788308181043
+Average Sentence Length: 22.833333333333332
+Average Words Per Sentence: 22.833333333333332
+Complex Word Count: 130
+Percentage of Complex Words: 23.722627737226276
+Fog Index: 18.622384428223842
+Cleaned Word Count: 324
+Syllable Count Per Word: [4, 4, 5, 3, 1, 1, 3, 4, 2, 2, 2, 3, 3, 2, 3, 2, 2, 2, 2, 4, 2, 3, 2, 4, 3, 2, 1, 2, 1, 2, 5, 3, 1, 2, 3, 2, 3, 1, 3, 3, 2, 2, 3, 3, 3, 2, 2, 4, 3, 5, 2, 1, 2, 4, 2, 2, 3, 2, 1, 1, 1, 1, 3, 2, 1, 4, 2, 1, 2, 3, 3, 4, 3, 1, 1, 2, 1, 4, 2, 4, 2, 3, 4, 2, 3, 3, 6, 2, 3, 1, 3, 2, 1, 3, 2, 2, 3, 2, 2, 1, 1, 3, 4, 3, 1, 3, 4, 2, 4, 2, 1, 2, 4, 2, 3, 2, 3, 2, 2, 1, 1, 3, 2, 1, 2, 2, 2, 2, 3, 3, 2, 3, 3, 3, 1, 4, 2, 1, 2, 4, 1, 3, 1, 2, 4, 2, 3, 2, 3, 1, 1, 1, 3, 2, 4, 3, 4, 3, 1, 2, 3, 3, 4, 2, 2, 3, 2, 3, 3, 2, 5, 3, 2, 2, 1, 2, 4, 3, 4, 1, 2, 2, 4, 4, 4, 1, 4, 1, 3, 1, 1, 3, 3, 2, 1, 1, 4, 2, 2, 3, 3, 3, 2, 4, 1, 3, 5, 2, 2, 1, 1, 2, 1, 1, 2, 2, 3, 3, 3, 2, 1, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 1, 2, 1, 1, 2, 1, 2, 2, 3, 3, 3, 2, 4, 3, 1, 4, 1, 2, 3, 2, 1, 3, 2, 2, 1, 2, 5, 1, 2, 1, 1, 2, 1, 1, 1, 2, 1, 2, 2, 2, 2, 3, 3, 3, 3, 2, 1, 1, 1, 1, 1, 2, 4, 1, 2, 3, 1, 4, 1, 1, 1, 1, 4, 4, 5, 1, 4, 3, 2, 1, 3, 1, 2, 3, 2, 2, 2, 2, 3, 4, 2, 1, 2, 1, 2, 3, 1, 3, 1, 1, 1, 1]
+Personal Pronoun Count: 1
+Average Word Length: 4.078467153284672
+
+Positive Words:
+entertainment
+valuable
+certain
+advantages
+truly
+want
+want.
+easily
+satisfying
+success.
+want.
+entertainment
+increase
+focused
+value
+Intelligence
+smart
+ensuring
+creation
+smart
+entertainment
+easy
+Smart
+growth
+important
+passive
+interests
+helps
+better
+responsible
+growth
+significant
+original
+like
+Amazon,
+
+Negative Words:
+no
+no
+restricted
+demand

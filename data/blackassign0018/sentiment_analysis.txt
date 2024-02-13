@@ -1,0 +1,89 @@
+Compound Score: 0.9958
+Polarity Score: 0.5774647805990876
+Positive Score: 56
+Negative Score: 15
+Subjectivity Score: 0.06787762899820493
+Average Sentence Length: 20.92
+Average Words Per Sentence: 20.92
+Complex Word Count: 266
+Percentage of Complex Words: 25.430210325047803
+Fog Index: 18.54008413001912
+Cleaned Word Count: 630
+Syllable Count Per Word: [4, 1, 2, 2, 3, 3, 1, 2, 4, 1, 3, 3, 2, 2, 3, 2, 3, 4, 4, 1, 2, 1, 1, 3, 3, 4, 1, 3, 3, 4, 2, 1, 3, 1, 2, 1, 5, 3, 3, 2, 1, 1, 2, 2, 1, 1, 2, 3, 4, 4, 2, 3, 2, 1, 2, 2, 2, 2, 2, 2, 4, 3, 3, 4, 5, 1, 3, 3, 1, 2, 4, 1, 2, 2, 2, 3, 2, 3, 3, 4, 4, 2, 2, 2, 2, 2, 3, 5, 4, 1, 5, 7, 2, 4, 3, 3, 1, 4, 3, 2, 4, 3, 1, 2, 2, 3, 1, 3, 3, 3, 4, 3, 1, 3, 2, 2, 2, 2, 2, 2, 3, 1, 1, 2, 1, 2, 1, 3, 3, 2, 2, 5, 2, 4, 3, 2, 2, 2, 6, 1, 3, 2, 2, 1, 1, 3, 2, 1, 4, 2, 3, 3, 4, 4, 2, 2, 2, 5, 2, 1, 3, 3, 2, 4, 2, 3, 4, 1, 3, 2, 2, 2, 2, 3, 3, 2, 1, 3, 5, 3, 5, 1, 1, 2, 4, 1, 2, 3, 1, 2, 1, 1, 2, 2, 2, 4, 1, 1, 2, 1, 5, 1, 1, 1, 2, 3, 1, 1, 3, 2, 1, 1, 4, 2, 2, 2, 2, 3, 2, 1, 2, 4, 1, 4, 2, 3, 4, 1, 2, 2, 3, 3, 2, 3, 2, 2, 3, 3, 3, 2, 3, 2, 2, 3, 2, 4, 2, 2, 2, 5, 2, 1, 2, 2, 1, 3, 1, 1, 3, 2, 1, 2, 3, 1, 1, 1, 2, 3, 1, 3, 3, 2, 2, 2, 1, 3, 5, 3, 4, 1, 1, 4, 4, 3, 2, 2, 2, 2, 3, 1, 2, 2, 1, 3, 2, 3, 3, 2, 1, 2, 1, 3, 2, 1, 4, 2, 1, 3, 3, 2, 2, 3, 2, 2, 2, 4, 1, 2, 3, 1, 2, 2, 2, 2, 2, 1, 3, 3, 1, 2, 3, 3, 3, 2, 2, 3, 3, 1, 0, 3, 3, 2, 2, 1, 1, 2, 3, 1, 1, 2, 1, 5, 3, 1, 1, 4, 3, 3, 4, 5, 4, 2, 2, 3, 2, 3, 2, 4, 1, 3, 1, 1, 4, 1, 2, 4, 2, 3, 2, 1, 2, 2, 3, 2, 2, 2, 3, 1, 3, 4, 2, 3, 2, 1, 1, 1, 1, 3, 2, 1, 2, 4, 3, 3, 4, 3, 1, 2, 3, 3, 3, 1, 4, 4, 3, 1, 1, 1, 1, 1, 1, 1, 3, 2, 1, 2, 2, 5, 4, 1, 3, 3, 5, 3, 1, 6, 5, 4, 2, 2, 1, 2, 2, 3, 3, 2, 4, 2, 2, 2, 3, 2, 2, 2, 6, 3, 2, 2, 4, 1, 4, 2, 4, 2, 1, 3, 2, 2, 2, 5, 3, 4, 1, 2, 2, 3, 3, 2, 2, 2, 3, 3, 5, 1, 3, 2, 2, 1, 3, 4, 4, 2, 3, 2, 2, 1, 3, 2, 2, 3, 2, 2, 4, 1, 2, 3, 1, 3, 2, 2, 1, 3, 4, 1, 2, 1, 4, 1, 2, 2, 1, 1, 1, 4, 3, 2, 2, 1, 2, 2, 4, 1, 3, 3, 2, 3, 3, 4, 1, 2, 4, 1, 3, 4, 3, 4, 3, 4, 2, 2, 4, 2, 4, 2, 2, 5, 2, 2, 1, 4, 3, 6, 3, 1, 3, 3, 2, 2, 2, 2, 3, 4, 1, 1, 2, 2, 2, 1, 4, 2, 1, 1, 2, 1, 3, 1, 1, 2, 3, 3, 2, 2, 3, 3, 3, 4, 3, 2, 2, 2, 2, 3, 2, 3, 4, 3, 1, 2, 5, 2, 1, 2, 2, 4, 3, 2, 3, 4, 2, 2, 2, 2, 1, 1, 2, 2, 1, 3, 1, 3]
+Personal Pronoun Count: 1
+Average Word Length: 4.430210325047801
+
+Positive Words:
+well
+adopt
+promises,
+excitement
+care,
+created
+better
+like
+care
+advanced.
+Growth
+created
+positive
+care
+benefits
+care
+improved
+better
+chances
+improve
+smart
+encourage
+solutions,
+increase
+growing
+fitness
+increase
+fitness
+increase
+wellness
+innovation,
+tolerant
+desire
+easy
+care
+positive
+interest
+solutions
+care.
+like
+better
+help
+well.
+intelligence
+vital
+value
+improve
+care.
+stronger
+increase
+confidence
+increase
+gaining
+wellness,
+supporting
+well
+
+Negative Words:
+demand
+lower
+insecurity
+difficulties.
+stressed.
+forced
+lowering
+difficulty
+difficult
+illnesses.
+worsens
+lowers
+fatality
+limited
+postponing

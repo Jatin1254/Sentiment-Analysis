@@ -1,0 +1,147 @@
+Compound Score: -0.9842
+Polarity Score: -0.023255813773210746
+Positive Score: 63
+Negative Score: 66
+Subjectivity Score: 0.13190184035592858
+Average Sentence Length: 12.225
+Average Words Per Sentence: 12.225
+Complex Word Count: 153
+Percentage of Complex Words: 15.644171779141105
+Fog Index: 11.147668711656443
+Cleaned Word Count: 506
+Syllable Count Per Word: [1, 2, 3, 2, 1, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 1, 2, 3, 1, 2, 3, 3, 4, 2, 2, 1, 1, 1, 3, 1, 1, 3, 6, 2, 2, 2, 2, 3, 2, 3, 3, 2, 2, 1, 4, 1, 2, 1, 1, 1, 1, 4, 1, 2, 1, 3, 2, 1, 2, 3, 1, 3, 3, 1, 4, 2, 1, 4, 3, 3, 6, 2, 1, 4, 2, 2, 4, 2, 1, 3, 2, 3, 1, 4, 4, 1, 1, 3, 3, 2, 4, 4, 1, 3, 4, 2, 1, 3, 1, 2, 1, 2, 1, 1, 2, 2, 3, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 2, 3, 3, 3, 3, 2, 2, 2, 2, 1, 1, 3, 1, 1, 2, 2, 2, 2, 1, 1, 1, 2, 2, 4, 1, 1, 2, 3, 3, 1, 2, 2, 1, 2, 1, 1, 1, 1, 4, 2, 3, 4, 1, 3, 2, 3, 5, 2, 1, 3, 3, 2, 1, 2, 2, 1, 1, 3, 1, 4, 1, 1, 1, 2, 1, 1, 2, 2, 3, 1, 3, 2, 1, 2, 4, 2, 2, 3, 2, 1, 1, 2, 3, 5, 2, 1, 2, 6, 5, 2, 1, 2, 2, 2, 3, 5, 2, 2, 2, 2, 2, 3, 2, 3, 3, 2, 3, 2, 2, 3, 2, 1, 2, 1, 2, 3, 4, 2, 1, 2, 2, 4, 1, 1, 1, 1, 1, 2, 1, 3, 4, 6, 4, 3, 3, 2, 2, 3, 3, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 4, 3, 3, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 3, 2, 2, 1, 1, 4, 2, 1, 2, 5, 3, 2, 3, 1, 1, 2, 1, 2, 2, 1, 1, 1, 2, 3, 1, 1, 1, 4, 1, 2, 1, 2, 2, 2, 3, 3, 3, 1, 1, 4, 1, 2, 2, 1, 4, 1, 2, 1, 2, 3, 4, 4, 1, 4, 1, 1, 2, 2, 1, 3, 1, 1, 2, 3, 3, 1, 2, 1, 1, 1, 2, 3, 2, 3, 2, 3, 1, 1, 2, 1, 2, 1, 1, 2, 5, 1, 1, 2, 1, 2, 1, 3, 3, 1, 1, 1, 1, 1, 6, 3, 2, 1, 2, 2, 3, 2, 3, 2, 2, 2, 1, 2, 1, 1, 1, 3, 1, 2, 1, 2, 1, 4, 1, 2, 1, 2, 1, 3, 1, 1, 1, 3, 1, 1, 1, 2, 5, 2, 4, 1, 3, 2, 2, 1, 3, 4, 1, 1, 1, 3, 1, 3, 1, 2, 2, 2, 1, 2, 3, 2, 4, 3, 1, 2, 4, 1, 1, 2, 1, 3, 1, 2, 6, 2, 2, 3, 2, 3, 2, 2, 3, 1, 1, 1, 3, 1, 1, 3, 2, 5, 1, 3, 1, 3, 1, 4, 1, 1, 1, 1, 1, 1, 3, 3, 3, 1, 3, 2, 1, 3, 3, 1, 4, 2]
+Personal Pronoun Count: 6
+Average Word Length: 3.359918200408998
+
+Positive Words:
+better
+effective
+glorifies
+fearlessness.
+smart,
+like
+challenging
+value.
+true
+like
+bold,
+visionary.
+natural
+bold
+visionary!
+emotional
+Emotional
+helps
+like
+accepting
+ideal
+truth
+accept.
+values.
+values
+value
+sure
+fit
+well
+comfortable
+important
+values
+important
+help
+clear
+help
+better
+effectively.
+chances
+like
+help
+help
+ensure
+valuable
+help
+greatest
+help
+better
+help
+focused
+optimizing
+care
+value
+want
+like
+value,
+useful
+creatively.
+overwhelmed
+good
+motivate
+careful
+bold
+
+Negative Words:
+No
+mistakes
+worrier.
+ashamed
+fear.
+tough,
+fear,
+mistakes
+cautious
+ashamed
+fear
+mistakes
+indecisive
+struggle
+disasters.)
+Fear
+mistakes
+anxious
+fears
+grievances
+crisis.
+fears.
+avoid
+anxiety
+trap
+uncertainty
+Worrying
+worry,
+threat.
+worry
+failure.
+avoiding
+mistakes?
+worries
+blind
+problem
+scared
+mistake,
+worried
+scared
+dangerous.
+fears
+threats
+fear
+fear
+mistake
+negative
+fear
+Fear
+difficult
+ignore
+threats.
+fear
+tough
+problems
+fearful
+overload.
+Avoid
+panicked,
+mistakes
+worry
+bad
+stress
+uncertainty
+wrong
+anxiety

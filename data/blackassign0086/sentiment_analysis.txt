@@ -1,0 +1,120 @@
+Compound Score: 0.9998
+Polarity Score: 0.7254901889657824
+Positive Score: 88
+Negative Score: 14
+Subjectivity Score: 0.0614087898486401
+Average Sentence Length: 17.86021505376344
+Average Words Per Sentence: 17.86021505376344
+Complex Word Count: 315
+Percentage of Complex Words: 18.96447922937989
+Fog Index: 14.729877713257332
+Cleaned Word Count: 942
+Syllable Count Per Word: [2, 2, 2, 3, 3, 2, 2, 1, 3, 1, 2, 3, 2, 2, 2, 2, 3, 1, 1, 2, 1, 2, 4, 1, 2, 2, 2, 1, 1, 1, 2, 1, 2, 1, 2, 2, 1, 4, 2, 2, 2, 1, 2, 2, 2, 2, 4, 2, 4, 3, 1, 2, 2, 2, 1, 1, 1, 1, 3, 2, 4, 3, 1, 1, 1, 1, 1, 2, 5, 2, 5, 3, 2, 4, 2, 3, 1, 1, 4, 4, 3, 3, 2, 2, 2, 1, 4, 2, 4, 3, 2, 4, 1, 3, 2, 2, 4, 3, 1, 1, 3, 1, 2, 2, 1, 2, 3, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 3, 2, 2, 3, 2, 2, 2, 1, 1, 1, 2, 1, 1, 2, 3, 1, 2, 2, 2, 4, 2, 2, 2, 3, 2, 2, 3, 2, 2, 2, 1, 3, 2, 2, 1, 1, 1, 2, 3, 1, 5, 2, 1, 2, 2, 1, 2, 4, 2, 2, 4, 2, 1, 4, 4, 1, 5, 3, 5, 3, 1, 3, 3, 3, 3, 2, 1, 2, 1, 1, 2, 5, 1, 4, 3, 3, 3, 4, 1, 1, 1, 2, 2, 1, 3, 3, 2, 3, 4, 3, 4, 3, 1, 4, 3, 2, 2, 1, 1, 3, 1, 2, 2, 1, 1, 1, 2, 3, 2, 1, 1, 2, 3, 3, 3, 2, 1, 3, 3, 1, 3, 3, 3, 3, 3, 1, 5, 2, 3, 2, 1, 2, 3, 2, 1, 1, 1, 1, 3, 3, 3, 2, 1, 1, 2, 2, 3, 3, 1, 2, 2, 1, 3, 1, 4, 3, 3, 2, 4, 3, 3, 4, 3, 3, 3, 3, 3, 4, 3, 2, 2, 3, 2, 1, 2, 3, 2, 3, 2, 2, 1, 2, 2, 1, 2, 2, 3, 2, 2, 3, 3, 3, 1, 2, 2, 2, 2, 1, 3, 3, 2, 2, 1, 3, 2, 1, 2, 1, 1, 1, 3, 3, 3, 1, 1, 2, 3, 3, 3, 2, 2, 2, 3, 2, 2, 2, 1, 2, 5, 3, 1, 2, 1, 3, 2, 3, 1, 3, 3, 2, 2, 2, 1, 2, 1, 2, 1, 2, 3, 1, 4, 2, 1, 2, 3, 3, 2, 3, 1, 2, 3, 2, 1, 2, 1, 1, 1, 2, 1, 2, 1, 3, 2, 2, 2, 1, 1, 2, 2, 4, 2, 2, 2, 2, 1, 1, 1, 3, 3, 1, 1, 3, 1, 3, 3, 3, 2, 1, 2, 4, 1, 2, 2, 2, 1, 1, 1, 2, 2, 3, 3, 1, 3, 1, 3, 1, 2, 2, 3, 2, 2, 1, 1, 3, 1, 1, 3, 2, 1, 1, 1, 4, 3, 1, 1, 3, 3, 1, 2, 3, 3, 0, 3, 3, 1, 1, 2, 3, 4, 3, 1, 2, 2, 1, 1, 2, 4, 1, 3, 3, 2, 1, 1, 1, 2, 4, 2, 4, 4, 3, 1, 2, 1, 2, 3, 1, 3, 1, 1, 5, 2, 1, 2, 3, 2, 1, 3, 1, 0, 2, 2, 1, 4, 2, 3, 4, 3, 2, 2, 3, 2, 4, 2, 3, 3, 1, 1, 1, 1, 3, 2, 2, 1, 3, 3, 2, 2, 3, 2, 3, 2, 1, 2, 2, 1, 1, 1, 3, 1, 2, 3, 1, 2, 3, 2, 3, 3, 1, 2, 3, 2, 3, 1, 2, 2, 5, 2, 2, 3, 1, 1, 3, 3, 4, 2, 1, 1, 6, 2, 5, 1, 1, 2, 1, 1, 2, 2, 5, 2, 3, 1, 1, 2, 2, 3, 4, 4, 1, 2, 3, 4, 3, 1, 2, 2, 3, 2, 1, 2, 3, 1, 1, 3, 3, 1, 3, 1, 1, 2, 4, 3, 2, 1, 3, 2, 2, 2, 3, 2, 3, 4, 3, 4, 5, 1, 2, 2, 1, 4, 1, 1, 1, 2, 2, 1, 2, 1, 2, 1, 1, 2, 1, 1, 1, 2, 1, 3, 3, 3, 1, 1, 3, 2, 2, 3, 2, 1, 2, 1, 2, 2, 1, 1, 1, 2, 2, 1, 1, 2, 2, 2, 3, 3, 3, 1, 2, 1, 1, 2, 1, 1, 3, 1, 1, 2, 2, 2, 2, 3, 1, 1, 1, 2, 2, 1, 2, 2, 2, 2, 4, 2, 2, 2, 4, 4, 2, 3, 2, 2, 3, 1, 1, 1, 4, 2, 2, 1, 3, 5, 3, 2, 1, 2, 3, 2, 4, 2, 4, 2, 2, 1, 1, 3, 2, 2, 1, 1, 1, 1, 1, 2, 3, 1, 2, 2, 1, 2, 1, 3, 1, 4, 1, 1, 3, 3, 1, 1, 1, 1, 3, 2, 2, 2, 4, 4, 1, 3, 3, 4, 1, 4, 2, 1, 1, 2, 3, 3, 3, 2, 3, 2, 1, 2, 2, 1, 1, 1, 1, 3, 3, 2, 2, 2, 3, 2, 6, 2, 2, 2, 2, 4, 1, 1, 1, 4, 1, 1, 2, 2, 1, 2, 4, 1, 4, 1, 3, 2, 1, 4, 2, 1, 4, 1, 2, 2, 3, 2, 2, 1, 1, 3, 1, 3, 1, 2, 2, 3, 3, 2, 1, 1, 2, 1, 2, 2, 2, 3, 1, 2, 1, 1, 1, 2, 3, 2, 2, 1, 2, 2, 2, 3, 2, 4, 3, 2, 2, 2, 3, 2, 1, 3, 1, 2, 1, 1, 1, 1, 3, 3, 1, 1, 2, 2, 2, 3, 4, 3, 1, 2, 1, 3, 3, 4, 2, 2, 1, 2, 1, 2, 4, 1, 3, 3, 3, 3, 2, 4, 1, 1, 1, 2, 1, 3, 2, 1, 1, 4, 1, 3, 1, 1, 1, 3, 2, 1, 3, 1, 1, 3]
+Personal Pronoun Count: 4
+Average Word Length: 3.7429259482239616
+
+Positive Words:
+likes,
+shares.
+engagement
+sharing
+engagement
+huge
+share
+positive
+engagement
+popular
+number
+active
+likes
+shares
+good
+engagement.
+benefits.
+engagement
+helps
+improves
+dynamic
+Top
+important.
+engagement
+vital
+care
+influential
+engagement
+good
+share
+like
+clever
+created
+like
+impressions
+increase
+created
+value
+casual
+Beauty
+engaging
+inviting
+interesting
+entertaining
+beauty
+certainly
+focused
+like
+Dynamic
+creation
+dynamic
+festival,
+excited
+marvelous
+dynamic.
+won
+award
+creating
+important
+support
+best
+original
+creative,
+support
+Pride.
+worth
+important
+great
+demonstration:
+convinced
+want
+true
+important
+promising
+giving
+engagement.
+Creating
+emotional
+emotional
+launched
+beauty
+values.
+successfully
+honored
+share
+engagement.
+successful
+well
+
+Negative Words:
+hard
+difficult
+offline
+No
+forget
+lose
+leave
+confused
+broken
+barrier
+loss
+complain
+missed
+hard

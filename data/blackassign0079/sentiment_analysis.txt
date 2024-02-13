@@ -1,0 +1,90 @@
+Compound Score: -0.9908
+Polarity Score: -0.19444444174382722
+Positive Score: 29
+Negative Score: 43
+Subjectivity Score: 0.059850374015086964
+Average Sentence Length: 20.389830508474578
+Average Words Per Sentence: 20.389830508474578
+Complex Word Count: 227
+Percentage of Complex Words: 18.86949293433084
+Fog Index: 15.703729377122167
+Cleaned Word Count: 686
+Syllable Count Per Word: [5, 3, 2, 3, 1, 2, 2, 4, 3, 3, 2, 3, 1, 2, 1, 5, 1, 3, 2, 2, 2, 2, 2, 3, 2, 3, 2, 3, 2, 3, 1, 2, 2, 3, 2, 3, 3, 2, 1, 2, 1, 3, 2, 3, 1, 2, 3, 2, 3, 3, 1, 1, 1, 2, 2, 1, 2, 3, 2, 3, 1, 2, 2, 2, 4, 4, 2, 1, 1, 1, 3, 2, 3, 3, 2, 3, 3, 2, 3, 3, 3, 1, 2, 1, 2, 2, 2, 3, 2, 0, 2, 1, 2, 3, 3, 2, 3, 3, 2, 3, 1, 1, 2, 2, 3, 2, 2, 1, 2, 2, 1, 3, 1, 2, 1, 3, 2, 3, 2, 1, 3, 2, 2, 2, 3, 2, 3, 4, 3, 2, 2, 2, 2, 1, 1, 3, 3, 2, 3, 1, 5, 2, 2, 2, 4, 2, 1, 2, 2, 2, 2, 3, 2, 4, 1, 2, 4, 2, 3, 3, 1, 4, 5, 2, 2, 3, 2, 3, 4, 3, 2, 2, 2, 1, 1, 3, 3, 3, 3, 1, 6, 1, 2, 3, 3, 2, 3, 1, 2, 2, 2, 2, 1, 3, 2, 3, 1, 1, 3, 2, 1, 3, 2, 2, 5, 2, 3, 3, 1, 3, 1, 1, 2, 1, 2, 2, 1, 2, 1, 1, 1, 2, 1, 1, 3, 2, 2, 1, 1, 1, 1, 3, 2, 1, 3, 3, 3, 3, 3, 1, 1, 1, 3, 3, 1, 1, 2, 2, 3, 2, 3, 2, 1, 2, 1, 2, 1, 1, 4, 3, 2, 4, 1, 2, 1, 2, 2, 1, 1, 1, 3, 2, 2, 3, 3, 2, 3, 1, 3, 3, 2, 1, 1, 3, 2, 1, 1, 2, 2, 2, 2, 2, 2, 1, 2, 1, 1, 3, 2, 4, 3, 2, 4, 1, 1, 3, 3, 3, 3, 3, 2, 2, 1, 1, 1, 2, 1, 3, 1, 1, 2, 1, 2, 2, 4, 1, 1, 3, 2, 2, 1, 2, 1, 2, 4, 1, 3, 1, 2, 3, 3, 3, 1, 2, 2, 2, 1, 1, 1, 2, 3, 3, 2, 1, 1, 2, 4, 3, 1, 2, 2, 2, 2, 1, 1, 1, 2, 3, 1, 2, 1, 1, 3, 1, 1, 1, 3, 1, 3, 4, 2, 2, 2, 1, 1, 2, 2, 2, 3, 2, 2, 1, 4, 1, 4, 3, 1, 2, 3, 2, 2, 2, 2, 1, 1, 2, 2, 2, 4, 1, 1, 3, 1, 1, 2, 2, 5, 1, 1, 3, 3, 1, 1, 2, 2, 1, 1, 2, 1, 1, 5, 2, 1, 1, 2, 3, 1, 2, 2, 2, 1, 5, 2, 4, 3, 2, 1, 1, 1, 1, 2, 2, 1, 1, 4, 1, 2, 1, 1, 1, 3, 1, 3, 3, 2, 3, 2, 3, 2, 1, 4, 3, 2, 2, 4, 2, 1, 2, 4, 4, 3, 3, 3, 5, 2, 3, 2, 1, 1, 2, 2, 2, 5, 2, 4, 2, 1, 2, 1, 3, 2, 3, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 3, 3, 3, 2, 5, 4, 3, 1, 1, 4, 2, 3, 2, 2, 4, 2, 4, 2, 1, 1, 2, 1, 2, 2, 3, 1, 2, 2, 2, 2, 2, 1, 3, 1, 1, 3, 1, 2, 1, 1, 1, 2, 3, 2, 1, 3, 3, 3, 1, 1, 3, 4, 2, 1, 3, 2, 2, 1, 3, 2, 1, 1, 3, 1, 2, 3, 1, 1, 1, 1, 1, 3, 1, 3, 1, 2, 3, 2, 3, 2, 3, 3, 1, 2, 3, 3, 3, 4, 2, 4, 1, 1, 4, 5, 2, 3, 2, 3, 2, 1, 3, 2, 2, 1, 2, 1, 3, 1, 1, 1, 1, 1, 1, 3, 2, 3, 1, 3, 2, 1, 5, 3, 1, 2, 3, 2, 1, 1, 3, 2, 2, 1, 2, 2, 2, 2, 4, 1, 3, 2, 2, 2, 3, 3, 1, 2, 3, 1, 2, 2, 4, 3, 1, 5, 2, 3, 2, 1, 3, 4, 1, 3, 1, 3, 3]
+Personal Pronoun Count: 6
+Average Word Length: 3.746467165419784
+
+Positive Words:
+prepared
+like.
+holiday
+discounted
+attract
+well
+profit
+strong
+supporting
+like
+adventure
+sharing
+like
+like
+Thankfully,
+values
+want
+want
+want
+forgiven,
+benefits,
+relief
+want
+smartest
+benefits
+support,
+important
+well.
+strong
+
+Negative Words:
+problems
+stress
+conflicts
+demand
+avoid
+lost.
+lower.
+restricted.
+drop
+disruptions
+stopped.
+drop
+demand,
+tough
+risk
+severely
+affected.
+worse
+problem
+worse.
+cancelled
+avoid
+eviction.
+crisis,
+strain
+undermine
+avoid
+foreclosure
+banned
+hurt
+pay
+expose
+unemployment
+lost
+anxious
+unemployment
+reluctant
+demand
+expose
+risk.
+risks
+curse
+disaster

@@ -1,0 +1,102 @@
+Compound Score: -0.9972
+Polarity Score: -0.1428571411564626
+Positive Score: 36
+Negative Score: 48
+Subjectivity Score: 0.09140369957409826
+Average Sentence Length: 15.576271186440678
+Average Words Per Sentence: 15.576271186440678
+Complex Word Count: 213
+Percentage of Complex Words: 23.177366702937977
+Fog Index: 15.501455155751461
+Cleaned Word Count: 544
+Syllable Count Per Word: [3, 3, 2, 3, 3, 2, 1, 2, 3, 3, 5, 1, 4, 2, 3, 4, 3, 2, 1, 3, 3, 4, 3, 3, 4, 3, 2, 2, 3, 2, 3, 2, 3, 1, 1, 3, 3, 4, 2, 1, 4, 3, 5, 2, 3, 2, 4, 3, 1, 2, 4, 2, 0, 1, 4, 4, 1, 2, 1, 1, 4, 4, 1, 1, 3, 3, 1, 2, 4, 2, 2, 1, 2, 1, 2, 3, 2, 1, 3, 2, 2, 1, 3, 1, 1, 2, 3, 2, 2, 2, 1, 2, 2, 4, 1, 3, 1, 1, 3, 2, 5, 2, 3, 1, 2, 2, 1, 3, 2, 3, 4, 2, 4, 1, 3, 1, 3, 2, 3, 2, 3, 3, 1, 1, 2, 2, 3, 2, 3, 2, 2, 3, 2, 5, 2, 1, 2, 3, 2, 1, 2, 1, 2, 2, 1, 2, 4, 2, 5, 3, 3, 3, 2, 2, 2, 1, 2, 3, 1, 1, 6, 2, 1, 1, 1, 2, 2, 1, 2, 2, 3, 2, 1, 3, 2, 3, 3, 1, 1, 4, 2, 3, 3, 2, 2, 3, 1, 1, 2, 2, 1, 1, 3, 1, 4, 1, 3, 2, 1, 3, 2, 6, 4, 5, 2, 2, 3, 1, 2, 4, 1, 2, 2, 2, 2, 2, 2, 2, 3, 1, 3, 2, 3, 2, 3, 2, 1, 1, 3, 3, 4, 3, 1, 1, 2, 2, 2, 3, 2, 2, 1, 1, 2, 4, 2, 2, 2, 1, 1, 3, 1, 1, 1, 3, 1, 1, 2, 2, 1, 2, 1, 2, 1, 3, 3, 1, 2, 1, 2, 2, 1, 2, 5, 1, 2, 2, 2, 2, 4, 2, 4, 2, 4, 2, 3, 2, 2, 1, 1, 2, 1, 3, 3, 2, 1, 2, 3, 4, 4, 2, 2, 3, 2, 2, 1, 2, 3, 2, 2, 3, 1, 2, 1, 3, 4, 3, 2, 2, 3, 2, 2, 2, 3, 1, 4, 1, 3, 2, 3, 3, 4, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 3, 2, 2, 5, 2, 2, 4, 3, 3, 2, 1, 3, 3, 4, 2, 5, 5, 2, 3, 3, 2, 2, 1, 2, 4, 2, 4, 2, 4, 1, 4, 1, 3, 3, 2, 3, 7, 1, 1, 1, 1, 2, 2, 3, 1, 2, 2, 2, 3, 2, 3, 4, 2, 1, 2, 2, 2, 3, 2, 3, 3, 2, 2, 4, 3, 3, 3, 2, 2, 1, 2, 1, 2, 4, 1, 3, 2, 4, 1, 3, 2, 2, 3, 2, 3, 4, 2, 1, 2, 2, 5, 3, 4, 3, 1, 1, 4, 3, 3, 3, 6, 2, 3, 5, 3, 1, 1, 3, 4, 2, 2, 2, 3, 3, 2, 3, 1, 3, 3, 2, 2, 3, 2, 3, 3, 1, 1, 1, 1, 2, 1, 1, 5, 3, 1, 1, 3, 2, 2, 4, 1, 1, 4, 3, 3, 4, 3, 5, 1, 3, 2, 2, 3, 1, 2, 2, 2, 3, 3, 2, 2, 2, 3, 1, 5, 2, 3, 4, 2, 2, 3, 2, 2, 1, 2, 3, 2, 1, 3, 1, 1, 2, 2, 2, 3, 2, 2, 4, 2, 1, 2, 5, 2, 2, 1, 4, 2, 2, 3, 2, 2, 1]
+Personal Pronoun Count: 1
+Average Word Length: 4.109902067464636
+
+Positive Words:
+security
+security.
+security
+Intelligence
+champion
+security.
+strong
+rewarded
+huge
+success.
+security
+interest
+Security
+flexible
+greater
+number
+Security
+perfect
+easier
+security
+improve
+boosted
+responsible
+security
+significant
+created
+protect
+interests.
+defence
+significant
+increased
+security
+popular
+creating
+attractive
+easier
+
+Negative Words:
+problem
+criminal
+attackers
+fraud,
+attack
+risk.
+attackers
+attacks.
+Attack
+attack
+attacks
+attacks
+weak
+vulnerability
+error.
+errors
+attackers.
+warns
+attacks
+block.
+attack
+stop
+suffering
+threats.
+attackers
+illegal
+crime
+problems
+crime
+combat
+attack
+Attack
+leak
+loss
+negative
+crime
+illegal
+harassing
+serious
+crime
+victim.
+criminals
+criminals
+fraud,
+victims
+problems
+threats
+Crime

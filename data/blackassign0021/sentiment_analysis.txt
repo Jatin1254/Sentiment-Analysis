@@ -1,0 +1,89 @@
+Compound Score: -0.5118
+Polarity Score: -0.014084506843880186
+Positive Score: 35
+Negative Score: 36
+Subjectivity Score: 0.07015810269747223
+Average Sentence Length: 19.46153846153846
+Average Words Per Sentence: 19.46153846153846
+Complex Word Count: 277
+Percentage of Complex Words: 27.37154150197628
+Fog Index: 18.733231985405897
+Cleaned Word Count: 610
+Syllable Count Per Word: [3, 2, 2, 3, 3, 2, 2, 2, 3, 3, 4, 2, 5, 4, 3, 3, 4, 2, 4, 3, 1, 4, 2, 2, 3, 2, 3, 4, 2, 3, 2, 3, 3, 4, 2, 1, 2, 1, 3, 3, 2, 3, 2, 3, 4, 3, 5, 2, 3, 1, 2, 3, 2, 1, 2, 3, 2, 2, 4, 2, 5, 1, 2, 1, 2, 3, 1, 2, 2, 2, 2, 2, 5, 1, 4, 1, 1, 4, 4, 1, 1, 2, 4, 5, 1, 1, 2, 2, 3, 3, 2, 4, 1, 1, 3, 2, 3, 3, 2, 3, 1, 1, 2, 3, 2, 3, 5, 2, 2, 2, 1, 2, 3, 1, 3, 4, 2, 1, 3, 4, 3, 2, 4, 2, 3, 3, 5, 2, 2, 3, 3, 1, 4, 1, 1, 1, 2, 3, 2, 1, 3, 3, 2, 1, 3, 4, 2, 1, 2, 1, 3, 1, 3, 1, 3, 1, 4, 1, 2, 2, 1, 1, 1, 2, 2, 1, 1, 1, 3, 4, 3, 1, 4, 1, 1, 1, 2, 2, 3, 2, 4, 2, 3, 2, 4, 4, 4, 1, 1, 3, 2, 1, 2, 2, 1, 3, 2, 2, 2, 2, 1, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 3, 3, 3, 1, 1, 3, 2, 3, 3, 1, 4, 4, 1, 4, 2, 1, 3, 1, 1, 2, 4, 4, 3, 4, 2, 4, 3, 4, 1, 5, 1, 2, 2, 4, 3, 2, 3, 2, 4, 3, 2, 4, 2, 3, 2, 3, 5, 0, 3, 3, 2, 1, 1, 1, 2, 2, 2, 1, 1, 1, 1, 3, 4, 3, 2, 1, 3, 1, 1, 1, 2, 1, 2, 3, 1, 2, 2, 1, 1, 3, 2, 2, 2, 2, 3, 5, 2, 1, 3, 4, 2, 2, 2, 2, 1, 4, 2, 4, 3, 4, 3, 2, 2, 2, 2, 3, 2, 1, 1, 3, 1, 4, 2, 3, 2, 2, 3, 3, 3, 2, 1, 2, 1, 3, 3, 2, 2, 3, 2, 2, 2, 2, 3, 2, 3, 3, 4, 3, 3, 2, 2, 1, 2, 4, 2, 1, 3, 2, 2, 4, 3, 2, 1, 2, 1, 3, 3, 3, 1, 2, 2, 2, 2, 2, 1, 2, 4, 1, 3, 2, 1, 3, 2, 3, 4, 3, 2, 4, 4, 4, 1, 5, 4, 2, 1, 4, 4, 3, 2, 4, 2, 2, 4, 3, 2, 3, 3, 3, 1, 4, 1, 3, 2, 3, 3, 3, 3, 2, 4, 4, 3, 4, 5, 2, 3, 2, 4, 4, 2, 3, 1, 1, 1, 2, 2, 3, 2, 1, 1, 3, 2, 2, 2, 2, 3, 2, 4, 2, 3, 2, 1, 2, 1, 2, 3, 3, 2, 4, 3, 3, 3, 3, 2, 4, 4, 3, 3, 4, 4, 3, 3, 2, 2, 3, 1, 2, 4, 2, 4, 2, 6, 4, 3, 2, 4, 4, 2, 3, 3, 4, 2, 4, 4, 4, 4, 4, 1, 3, 2, 1, 3, 1, 5, 4, 2, 2, 1, 4, 2, 2, 2, 1, 2, 4, 2, 2, 1, 1, 2, 3, 1, 3, 1, 2, 3, 1, 3, 2, 3, 1, 2, 2, 2, 2, 1, 3, 2, 1, 2, 3, 1, 4, 1, 2, 1, 1, 2, 1, 3, 3, 2, 2, 2, 1, 4, 2, 2, 2, 3, 2, 4, 2, 3, 2, 4, 2, 3, 3, 1, 0, 1, 3, 1, 4, 3, 2, 1, 4, 2, 3, 3, 3, 4, 2, 2, 2, 1, 1, 1, 5, 4, 2, 4, 1, 2, 4, 1, 3, 3, 2, 4, 2, 2, 3, 2, 2, 2, 3, 3]
+Personal Pronoun Count: 6
+Average Word Length: 4.407114624505929
+
+Positive Words:
+satisfying
+desire
+like
+hand,
+challenge
+Ethical
+vital
+honest
+ethical
+fair
+better
+promises,
+hope
+share
+positive.
+positives
+like
+positive
+better.
+best
+creative
+popular
+wisdom
+increased
+play
+encouraging
+values.
+share
+Free
+value
+responsible
+increased
+number
+growing
+vital
+
+Negative Words:
+Critics
+criticism.
+argue
+demand.
+leave
+vulnerable
+argues
+wrong,
+unfair,
+worse,
+hard
+avoid
+adverse
+argue
+negative
+negative
+unhealthy
+vulnerable.
+hostile
+disturbed
+negative
+vicious
+futile,
+worse
+worse
+problem
+negative.
+problems
+problems.
+adverse
+poor
+evils
+criticized
+problems.
+exposed
+cautious.

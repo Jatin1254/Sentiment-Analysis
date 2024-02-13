@@ -1,0 +1,163 @@
+Compound Score: 0.9998
+Polarity Score: 0.5034482723900119
+Positive Score: 109
+Negative Score: 36
+Subjectivity Score: 0.06750465546205557
+Average Sentence Length: 24.976744186046513
+Average Words Per Sentence: 24.976744186046513
+Complex Word Count: 431
+Percentage of Complex Words: 20.065176908752328
+Fog Index: 18.016768437919534
+Cleaned Word Count: 1194
+Syllable Count Per Word: [3, 4, 3, 4, 2, 4, 1, 2, 1, 4, 3, 1, 2, 2, 4, 4, 3, 2, 3, 2, 2, 2, 3, 2, 2, 2, 2, 3, 3, 4, 4, 3, 2, 2, 1, 2, 2, 1, 2, 2, 4, 1, 2, 3, 4, 3, 3, 2, 3, 3, 4, 1, 3, 1, 5, 2, 3, 4, 3, 1, 2, 2, 4, 2, 3, 2, 1, 2, 3, 3, 1, 2, 2, 3, 4, 3, 0, 2, 1, 1, 2, 3, 3, 1, 4, 4, 4, 1, 2, 3, 4, 2, 2, 1, 3, 2, 4, 1, 1, 2, 3, 4, 1, 3, 3, 3, 3, 2, 2, 4, 2, 3, 3, 2, 1, 1, 1, 1, 2, 1, 2, 4, 1, 2, 2, 1, 1, 2, 2, 1, 4, 2, 0, 4, 4, 2, 2, 1, 1, 3, 3, 2, 1, 2, 3, 3, 3, 4, 1, 2, 3, 3, 2, 2, 1, 1, 2, 3, 2, 2, 1, 1, 2, 3, 2, 1, 1, 3, 3, 2, 3, 1, 3, 2, 1, 2, 1, 4, 1, 2, 4, 3, 1, 1, 2, 3, 1, 3, 4, 4, 1, 2, 2, 2, 2, 1, 2, 3, 2, 2, 2, 3, 1, 3, 2, 1, 1, 2, 3, 3, 1, 1, 2, 4, 2, 1, 1, 1, 4, 3, 1, 2, 2, 3, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 1, 1, 2, 4, 4, 2, 2, 4, 3, 2, 2, 1, 2, 4, 2, 1, 1, 1, 1, 1, 2, 1, 3, 2, 4, 3, 2, 1, 4, 2, 1, 2, 4, 3, 1, 1, 2, 2, 4, 3, 1, 2, 3, 1, 1, 1, 1, 1, 2, 4, 2, 2, 3, 1, 1, 1, 1, 2, 3, 4, 4, 2, 1, 2, 3, 4, 1, 3, 1, 1, 2, 1, 4, 2, 2, 3, 4, 2, 2, 2, 2, 1, 2, 1, 2, 4, 1, 2, 3, 3, 1, 3, 1, 2, 1, 2, 1, 5, 2, 2, 1, 1, 1, 2, 2, 2, 4, 4, 2, 4, 4, 2, 1, 1, 2, 4, 4, 1, 2, 4, 3, 4, 4, 2, 1, 1, 2, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 2, 2, 2, 3, 3, 2, 3, 2, 5, 4, 1, 4, 2, 2, 3, 2, 2, 3, 3, 2, 2, 3, 3, 1, 3, 2, 3, 2, 2, 2, 2, 2, 1, 2, 3, 4, 1, 1, 2, 3, 2, 2, 2, 2, 2, 2, 2, 6, 1, 1, 2, 3, 1, 6, 2, 3, 4, 2, 2, 2, 4, 4, 3, 2, 1, 5, 2, 2, 1, 4, 2, 2, 1, 4, 1, 2, 3, 3, 4, 1, 2, 2, 1, 3, 3, 4, 3, 2, 3, 1, 2, 2, 1, 2, 3, 1, 1, 3, 2, 2, 4, 1, 2, 1, 4, 2, 3, 4, 6, 1, 1, 2, 3, 1, 3, 4, 1, 1, 1, 4, 3, 3, 1, 2, 2, 2, 2, 1, 1, 2, 2, 1, 1, 2, 1, 1, 4, 2, 4, 1, 5, 2, 2, 2, 4, 3, 3, 2, 4, 2, 2, 4, 8, 3, 2, 3, 3, 3, 5, 1, 1, 1, 2, 2, 2, 3, 2, 3, 3, 2, 2, 2, 3, 4, 2, 4, 1, 2, 2, 1, 2, 1, 2, 3, 3, 1, 2, 3, 2, 4, 1, 1, 2, 2, 3, 1, 1, 4, 1, 3, 1, 3, 3, 2, 2, 1, 1, 2, 4, 3, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 2, 2, 4, 1, 2, 1, 1, 1, 2, 1, 3, 2, 4, 2, 1, 3, 5, 1, 1, 2, 1, 2, 1, 1, 1, 2, 4, 3, 2, 3, 1, 4, 1, 4, 4, 2, 3, 4, 2, 4, 2, 5, 1, 3, 1, 2, 2, 2, 4, 3, 3, 3, 4, 1, 1, 3, 3, 3, 3, 3, 2, 2, 2, 4, 1, 3, 2, 3, 2, 5, 1, 1, 3, 3, 2, 3, 2, 4, 3, 1, 1, 3, 1, 4, 5, 2, 4, 3, 4, 4, 1, 2, 2, 2, 5, 3, 2, 4, 2, 6, 6, 1, 1, 2, 3, 2, 4, 4, 1, 6, 2, 2, 1, 2, 1, 1, 3, 2, 5, 2, 2, 1, 1, 2, 5, 2, 2, 2, 1, 2, 2, 3, 1, 4, 3, 1, 6, 1, 2, 2, 2, 4, 1, 2, 2, 2, 1, 2, 2, 2, 1, 3, 1, 3, 1, 1, 3, 2, 3, 2, 3, 2, 3, 2, 3, 3, 3, 4, 2, 2, 2, 1, 2, 1, 3, 3, 1, 2, 2, 6, 5, 3, 4, 3, 4, 4, 1, 1, 2, 1, 1, 2, 2, 1, 2, 3, 1, 1, 3, 1, 1, 2, 2, 4, 1, 1, 4, 1, 3, 1, 2, 2, 2, 2, 1, 1, 3, 3, 4, 3, 2, 2, 1, 2, 1, 2, 1, 3, 2, 5, 1, 2, 3, 1, 3, 4, 2, 3, 1, 3, 1, 1, 1, 2, 3, 1, 3, 1, 4, 3, 2, 2, 1, 4, 2, 1, 1, 2, 3, 2, 1, 2, 1, 2, 2, 3, 3, 4, 3, 2, 2, 2, 3, 1, 2, 2, 1, 2, 3, 2, 1, 3, 2, 1, 1, 2, 1, 4, 3, 4, 2, 2, 1, 3, 3, 3, 4, 2, 1, 2, 4, 2, 4, 3, 3, 5, 3, 2, 2, 4, 3, 4, 2, 2, 2, 3, 1, 3, 3, 2, 3, 3, 1, 3, 2, 4, 1, 2, 4, 2, 2, 1, 2, 2, 4, 3, 2, 3, 1, 1, 2, 2, 1, 2, 2, 3, 4, 1, 4, 3, 3, 3, 2, 2, 1, 2, 4, 2, 2, 4, 3, 4, 3, 2, 3, 2, 3, 3, 2, 2, 1, 2, 2, 3, 3, 2, 1, 3, 2, 1, 4, 1, 2, 1, 1, 2, 3, 1, 2, 3, 2, 2, 1, 2, 2, 2, 3, 1, 3, 1, 1, 2, 2, 1, 2, 1, 2, 1, 3, 3, 1, 2, 1, 1, 1, 2, 1, 1, 3, 2, 1, 2, 2, 1, 3, 4, 2, 1, 5, 1, 1, 2, 3, 2, 3, 2, 3, 1, 2, 3, 1, 2, 2, 1, 2, 3, 3, 2, 2, 3, 3, 1, 2, 2, 1, 1, 2, 2, 3, 2, 2, 1, 3, 1, 2, 1, 2, 3, 1, 1, 1, 1, 1, 3, 1, 2, 2, 2, 2, 1, 1, 4, 2, 4, 1, 2, 1, 1, 2, 3, 2, 2, 2, 1, 4, 3, 4, 1, 2, 4, 3, 1, 3, 2, 2, 2, 4, 2, 2, 1, 2, 1, 3, 1, 2, 1, 2, 1, 3, 1, 5, 1, 3, 2, 1, 1, 1, 1, 1, 1, 2, 2, 1, 3, 3, 1, 1, 2, 1, 3, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 3, 3, 3, 1, 1, 2, 2, 4, 1, 3, 4, 2, 3, 2, 1, 5, 1, 2, 1, 4, 1, 1, 3, 2, 1, 1, 1, 2, 2, 2, 1, 4, 2, 1, 1, 3, 3, 3, 2, 1, 1, 2, 2, 3, 3, 1]
+Personal Pronoun Count: 5
+Average Word Length: 3.6834264432029795
+
+Positive Words:
+intelligence
+popular
+create
+benefits
+intelligence
+clearly
+natural
+useful
+benefits
+like
+Amazon
+intelligence
+favorite
+clear
+created
+advanced,
+natural
+creating
+intelligent
+entitled
+Intelligence
+optimistic
+promoting
+innovation
+create
+growth,
+creation
+intelligence
+certain
+capable
+intelligence,
+solve
+kind
+important
+certainly
+kind
+security
+important
+create
+entitled
+reaching
+intelligence,
+create
+fascinating
+hoping
+clear
+greater
+definitely
+want
+greater
+strong
+certain
+benefits
+robust
+create
+effective
+certain
+secure
+asset
+security
+play
+hope
+benefit
+plays
+devote
+successful
+easier.
+certain
+create
+certain
+natural
+clear
+certain
+advantage.
+excellent
+good
+certain
+great
+well
+desired
+help
+best
+fit
+well
+well
+better
+encourage
+awesome
+help
+sure
+great
+great
+improvement.
+great
+energy
+competitive
+top
+important
+increase
+like
+expand
+great
+free
+wise
+important
+abilities,
+definitely
+like
+best
+
+Negative Words:
+barrier
+avoid
+worry
+obsolete,
+fears
+fear
+obsolete
+fear
+fatalistic.
+problem,
+rigid,
+critical
+limitation
+alone
+limitation
+bias,
+bias
+bias
+bias.
+argues
+forget
+no
+Attacks
+critical
+threats
+fraud.
+doubt
+rude
+rejected
+critical
+bias
+lawsuit
+bias
+prejudice.
+controversial
+no

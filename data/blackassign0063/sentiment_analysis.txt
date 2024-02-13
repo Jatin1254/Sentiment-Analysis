@@ -1,0 +1,47 @@
+Compound Score: -0.9825
+Polarity Score: -0.17241378715814526
+Positive Score: 12
+Negative Score: 17
+Subjectivity Score: 0.07774798906769977
+Average Sentence Length: 16.954545454545453
+Average Words Per Sentence: 16.954545454545453
+Complex Word Count: 57
+Percentage of Complex Words: 15.281501340482572
+Fog Index: 12.89441871801121
+Cleaned Word Count: 175
+Syllable Count Per Word: [3, 1, 1, 3, 1, 4, 1, 2, 1, 3, 3, 2, 1, 2, 2, 3, 2, 2, 2, 1, 2, 1, 1, 2, 3, 1, 1, 1, 1, 1, 3, 1, 1, 1, 3, 4, 1, 1, 3, 1, 2, 2, 1, 2, 1, 2, 2, 2, 2, 1, 1, 1, 4, 3, 3, 2, 3, 4, 1, 2, 4, 1, 4, 4, 4, 1, 3, 2, 2, 3, 1, 5, 2, 3, 2, 2, 1, 2, 2, 1, 3, 4, 3, 1, 2, 4, 1, 4, 1, 2, 1, 1, 3, 3, 2, 1, 2, 2, 1, 1, 1, 2, 2, 1, 3, 1, 2, 2, 3, 1, 4, 1, 1, 3, 1, 1, 3, 2, 3, 2, 2, 2, 3, 2, 4, 2, 2, 3, 1, 3, 2, 3, 2, 2, 1, 2, 4, 2, 1, 3, 2, 1, 5, 1, 3, 6, 1, 3, 5, 1, 2, 3, 6, 1, 2, 1, 2, 2, 2, 3, 1, 2, 2, 4, 1, 1, 2, 3, 1, 1, 1, 1, 2, 1, 2]
+Personal Pronoun Count: 6
+Average Word Length: 3.058981233243968
+
+Positive Words:
+happy
+freedom
+free,
+important
+ensure
+safe
+number
+worth
+growth?
+help
+progress
+protect
+
+Negative Words:
+no
+sadly
+scream
+vain.
+lost
+pain
+pain
+unethical
+isolation
+suffer
+stress
+discomfort.
+stop
+cruelty
+harming
+excruciating
+pain.

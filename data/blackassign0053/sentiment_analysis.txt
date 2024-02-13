@@ -1,0 +1,58 @@
+Compound Score: 0.9992
+Polarity Score: 0.9499999762500007
+Positive Score: 39
+Negative Score: 1
+Subjectivity Score: 0.06182380206827851
+Average Sentence Length: 14.704545454545455
+Average Words Per Sentence: 14.704545454545455
+Complex Word Count: 140
+Percentage of Complex Words: 21.638330757341574
+Fog Index: 14.537150484754813
+Cleaned Word Count: 371
+Syllable Count Per Word: [2, 1, 2, 5, 5, 1, 2, 1, 2, 2, 2, 5, 2, 1, 2, 1, 7, 2, 3, 3, 1, 1, 1, 2, 1, 1, 4, 4, 1, 1, 2, 1, 2, 3, 3, 4, 2, 2, 1, 2, 2, 1, 1, 1, 2, 3, 3, 2, 2, 4, 1, 2, 1, 3, 3, 1, 2, 2, 1, 2, 1, 1, 2, 1, 2, 5, 2, 2, 3, 3, 6, 1, 2, 3, 2, 2, 1, 1, 3, 1, 3, 3, 3, 1, 2, 5, 2, 1, 4, 1, 1, 2, 3, 1, 2, 4, 2, 2, 2, 1, 2, 1, 2, 3, 3, 1, 2, 5, 4, 4, 3, 2, 5, 3, 4, 2, 2, 2, 3, 2, 1, 3, 2, 1, 1, 1, 1, 1, 1, 1, 2, 3, 4, 1, 2, 2, 1, 3, 4, 2, 2, 2, 1, 4, 4, 2, 3, 2, 1, 3, 4, 3, 2, 2, 1, 2, 1, 3, 2, 5, 3, 4, 2, 2, 3, 5, 1, 1, 3, 1, 1, 2, 2, 3, 3, 3, 4, 3, 5, 1, 3, 3, 2, 1, 3, 2, 2, 5, 3, 3, 3, 1, 2, 2, 4, 3, 3, 5, 3, 3, 6, 3, 1, 3, 3, 2, 2, 3, 2, 3, 3, 2, 3, 4, 2, 2, 2, 1, 3, 3, 3, 2, 4, 3, 2, 1, 2, 1, 2, 1, 1, 1, 3, 3, 4, 2, 1, 3, 1, 2, 2, 3, 1, 2, 2, 3, 2, 3, 1, 1, 1, 2, 1, 3, 5, 4, 1, 4, 2, 2, 3, 2, 3, 2, 2, 2, 2, 4, 3, 2, 4, 1, 3, 2, 2, 1, 2, 1, 2, 2, 1, 1, 2, 2, 5, 1, 4, 2, 3, 2, 2, 3, 1, 1, 1, 2, 1, 1, 2, 1, 2, 2, 3, 2, 2, 1, 2, 3, 1, 5, 1, 2, 1, 1, 3, 2, 2, 1, 4, 2, 2, 3, 1, 1, 2, 4, 3, 2, 5, 3, 5, 3, 1, 2, 2, 4, 1, 4, 5, 5, 4, 2, 1, 4, 2, 4, 3, 3, 3, 2, 2, 1, 1, 4, 0, 2, 2, 1, 1, 4, 1, 2, 1, 2, 1, 1, 1, 2, 2, 2, 1]
+Personal Pronoun Count: 3
+Average Word Length: 3.928902627511592
+
+Positive Words:
+gaining
+popularity
+thanks
+enjoying
+better
+Yes,
+play
+flexible,
+effectively.
+effectively.
+easier
+like
+like
+help
+easily
+helps
+excellent
+excellent
+like
+clean,
+well
+useful
+efficient
+loved
+surely
+help
+significant
+huge
+popular
+clearly
+exciting.
+accomplish
+effectively
+amazing
+well.
+effectively.
+top
+proud
+loved
+
+Negative Words:
+worry,

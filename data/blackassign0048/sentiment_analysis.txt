@@ -1,0 +1,27 @@
+Compound Score: 0.6705
+Polarity Score: 0.33333329629630043
+Positive Score: 6
+Negative Score: 3
+Subjectivity Score: 0.05325443755470747
+Average Sentence Length: 24.142857142857142
+Average Words Per Sentence: 24.142857142857142
+Complex Word Count: 45
+Percentage of Complex Words: 26.627218934911244
+Fog Index: 20.308030431107355
+Cleaned Word Count: 101
+Syllable Count Per Word: [1, 2, 3, 1, 1, 2, 2, 2, 2, 4, 2, 4, 3, 2, 2, 3, 3, 2, 3, 3, 4, 3, 5, 2, 2, 4, 2, 3, 4, 2, 2, 1, 4, 3, 2, 2, 4, 2, 3, 1, 2, 2, 4, 2, 1, 2, 2, 2, 1, 3, 4, 1, 3, 4, 1, 1, 1, 5, 1, 1, 2, 2, 2, 2, 3, 3, 2, 1, 1, 3, 2, 3, 2, 4, 1, 4, 2, 1, 2, 4, 3, 3, 5, 3, 2, 3, 4, 3, 4, 2, 2, 3, 3, 1, 2, 1, 4, 2, 3, 3, 2]
+Personal Pronoun Count: 2
+Average Word Length: 4.136094674556213
+
+Positive Words:
+useful
+useful
+hand,
+chance
+help
+help
+
+Negative Words:
+failed
+low
+horrendous

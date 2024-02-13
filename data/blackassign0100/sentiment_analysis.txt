@@ -1,0 +1,19 @@
+Compound Score: 0.0
+Polarity Score: 0.0
+Positive Score: 0
+Negative Score: 0
+Subjectivity Score: 0.0
+Average Sentence Length: 0.0
+Average Words Per Sentence: 0.0
+Complex Word Count: 0
+Percentage of Complex Words: 0
+Fog Index: 0.0
+Cleaned Word Count: 0
+Syllable Count Per Word: []
+Personal Pronoun Count: 0
+Average Word Length: 0
+
+Positive Words:
+
+
+Negative Words:

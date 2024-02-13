@@ -1,0 +1,152 @@
+Compound Score: -0.9817
+Polarity Score: -0.029850746045889956
+Positive Score: 65
+Negative Score: 69
+Subjectivity Score: 0.13359920225962194
+Average Sentence Length: 13.197368421052632
+Average Words Per Sentence: 13.197368421052632
+Complex Word Count: 160
+Percentage of Complex Words: 15.952143569292124
+Fog Index: 11.659804796137903
+Cleaned Word Count: 522
+Syllable Count Per Word: [2, 2, 2, 3, 3, 1, 3, 4, 2, 1, 2, 2, 2, 4, 2, 2, 2, 3, 2, 1, 3, 1, 4, 3, 4, 2, 3, 1, 2, 2, 2, 2, 2, 1, 2, 3, 2, 1, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 3, 2, 2, 3, 3, 4, 2, 2, 1, 1, 1, 3, 1, 1, 3, 6, 2, 2, 2, 2, 3, 2, 3, 3, 2, 2, 1, 4, 1, 2, 1, 1, 1, 1, 4, 1, 2, 1, 3, 2, 1, 2, 3, 1, 3, 3, 1, 4, 2, 1, 4, 3, 3, 6, 2, 1, 4, 2, 2, 4, 2, 1, 3, 2, 3, 1, 3, 3, 2, 4, 4, 1, 3, 4, 2, 1, 3, 1, 2, 1, 2, 1, 1, 2, 2, 3, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 2, 3, 3, 3, 3, 2, 2, 2, 2, 1, 1, 3, 1, 1, 2, 2, 2, 2, 1, 1, 1, 2, 2, 4, 1, 1, 2, 3, 3, 1, 2, 2, 1, 2, 1, 1, 1, 1, 4, 2, 3, 4, 1, 3, 2, 3, 5, 2, 1, 3, 3, 2, 1, 2, 2, 1, 1, 3, 1, 4, 1, 1, 1, 2, 1, 1, 2, 2, 3, 1, 3, 2, 1, 2, 4, 2, 2, 1, 1, 2, 3, 5, 2, 1, 0, 2, 6, 5, 2, 1, 2, 2, 2, 3, 5, 2, 2, 2, 2, 2, 3, 2, 3, 3, 2, 3, 2, 2, 3, 2, 1, 2, 1, 2, 3, 4, 2, 1, 2, 2, 4, 1, 1, 1, 1, 1, 2, 1, 3, 4, 6, 4, 3, 3, 2, 2, 3, 3, 4, 4, 2, 2, 2, 2, 2, 2, 4, 3, 3, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 3, 2, 2, 1, 1, 4, 2, 1, 2, 5, 3, 2, 3, 1, 1, 2, 1, 2, 2, 1, 1, 1, 2, 3, 1, 1, 1, 4, 1, 2, 1, 2, 2, 2, 3, 3, 3, 1, 1, 4, 1, 2, 2, 1, 4, 1, 2, 1, 2, 3, 4, 4, 1, 4, 1, 1, 2, 2, 1, 3, 1, 1, 2, 3, 1, 1, 1, 2, 3, 2, 3, 2, 3, 1, 1, 2, 1, 2, 1, 1, 2, 5, 1, 1, 2, 1, 2, 1, 3, 3, 1, 1, 1, 1, 1, 6, 3, 2, 1, 2, 2, 3, 2, 3, 2, 2, 2, 1, 2, 1, 1, 1, 3, 1, 2, 1, 2, 1, 4, 1, 2, 1, 2, 1, 3, 1, 1, 1, 3, 1, 1, 1, 2, 5, 3, 2, 2, 1, 3, 4, 1, 1, 1, 3, 1, 3, 1, 2, 2, 2, 1, 2, 3, 2, 4, 3, 1, 2, 4, 1, 1, 2, 1, 3, 1, 2, 6, 4, 2, 3, 2, 3, 2, 2, 3, 1, 1, 1, 3, 1, 1, 3, 2, 5, 1, 3, 1, 3, 1, 4, 1, 1, 1, 1, 1, 1, 3, 3, 3, 1, 3, 2, 1, 3, 3, 1, 4, 2]
+Personal Pronoun Count: 7
+Average Word Length: 3.386839481555334
+
+Positive Words:
+well
+justice,
+challenges
+feeling
+better
+effective
+glorifies
+fearlessness.
+smart,
+like
+challenging
+value.
+true
+like
+bold,
+visionary.
+natural
+bold
+visionary!
+Emotional
+helps
+like
+accepting
+ideal
+truth
+accept.
+values.
+values
+value
+sure
+fit
+well
+comfortable
+important
+values
+important
+help
+clear
+help
+better
+effectively.
+chances
+like
+help
+help
+ensure
+valuable
+help
+greatest
+help
+better
+help
+focused
+optimizing
+care
+want
+like
+value,
+useful
+creatively.
+overwhelmed
+good
+motivate
+careful
+bold
+
+Negative Words:
+crisis
+recession,
+protests
+brutality
+fearful
+No
+mistakes
+worrier.
+tough,
+fear,
+mistakes
+cautious
+ashamed
+fear
+mistakes
+indecisive
+struggle
+disasters.)
+Fear
+mistakes
+anxious
+fears
+grievances
+crisis.
+fears.
+avoid
+anxiety
+trap
+uncertainty
+Worrying
+worry,
+threat.
+worry
+failure.
+avoiding
+mistakes?
+worries
+blind
+problem
+scared
+mistake,
+worried
+scared
+dangerous.
+fears
+threats
+fear
+fear
+mistake
+negative
+fear
+Fear
+difficult
+ignore
+threats.
+fear
+tough
+problems
+fearful
+overload.
+Avoid
+panicked,
+mistakes
+worry
+bad
+stress
+uncertainty
+wrong
+anxiety

@@ -1,0 +1,111 @@
+Compound Score: 0.9251
+Polarity Score: 0.18279569695918607
+Positive Score: 55
+Negative Score: 38
+Subjectivity Score: 0.07749999993541666
+Average Sentence Length: 16.216216216216218
+Average Words Per Sentence: 16.216216216216218
+Complex Word Count: 206
+Percentage of Complex Words: 17.166666666666668
+Fog Index: 13.353153153153153
+Cleaned Word Count: 623
+Syllable Count Per Word: [1, 2, 1, 2, 1, 4, 2, 3, 2, 1, 2, 3, 1, 4, 1, 3, 1, 2, 2, 5, 2, 1, 3, 5, 2, 1, 1, 1, 2, 4, 1, 1, 1, 6, 1, 3, 1, 3, 1, 1, 2, 2, 2, 1, 2, 1, 1, 4, 1, 2, 3, 1, 1, 2, 1, 4, 2, 4, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 1, 1, 3, 3, 2, 3, 3, 2, 1, 2, 4, 4, 2, 1, 5, 2, 1, 4, 1, 1, 1, 2, 3, 1, 5, 2, 4, 2, 4, 2, 2, 2, 1, 2, 2, 1, 3, 3, 4, 1, 1, 4, 2, 1, 3, 2, 2, 2, 1, 1, 2, 3, 1, 3, 3, 2, 1, 1, 1, 1, 1, 4, 3, 2, 2, 3, 2, 1, 4, 1, 3, 3, 4, 1, 4, 2, 3, 2, 3, 3, 3, 2, 1, 1, 4, 2, 1, 4, 3, 2, 3, 1, 1, 2, 2, 1, 2, 4, 4, 4, 5, 2, 2, 5, 5, 2, 3, 1, 2, 3, 3, 2, 1, 2, 1, 2, 3, 2, 2, 2, 3, 4, 3, 1, 2, 3, 1, 1, 2, 2, 3, 2, 1, 2, 2, 2, 2, 2, 2, 3, 1, 2, 2, 2, 4, 2, 3, 1, 3, 3, 2, 2, 1, 2, 3, 1, 1, 1, 2, 3, 2, 3, 3, 2, 3, 2, 1, 1, 2, 1, 1, 2, 4, 1, 2, 2, 2, 2, 2, 1, 2, 1, 3, 1, 2, 2, 2, 3, 4, 1, 1, 1, 1, 1, 1, 1, 3, 5, 3, 2, 3, 1, 3, 2, 4, 1, 2, 4, 2, 3, 2, 1, 4, 2, 3, 3, 4, 2, 3, 1, 3, 3, 1, 2, 4, 3, 1, 2, 2, 2, 2, 2, 2, 4, 1, 1, 4, 1, 2, 3, 3, 1, 3, 2, 3, 1, 2, 2, 1, 2, 6, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 3, 3, 2, 1, 2, 2, 1, 4, 3, 2, 1, 1, 4, 1, 3, 3, 4, 1, 3, 1, 1, 3, 2, 2, 3, 2, 3, 1, 3, 2, 2, 1, 4, 2, 2, 3, 1, 2, 2, 2, 2, 4, 3, 3, 2, 2, 4, 1, 1, 2, 2, 2, 1, 3, 3, 2, 4, 2, 2, 2, 2, 2, 4, 3, 2, 4, 1, 2, 3, 2, 3, 2, 3, 2, 1, 3, 3, 3, 3, 2, 2, 2, 3, 4, 3, 2, 1, 3, 1, 3, 1, 2, 3, 1, 2, 3, 1, 1, 2, 3, 2, 2, 3, 1, 2, 2, 3, 1, 1, 2, 1, 2, 2, 3, 4, 2, 2, 2, 1, 3, 2, 4, 3, 3, 3, 1, 1, 2, 2, 2, 2, 1, 2, 2, 3, 4, 2, 1, 2, 1, 1, 3, 2, 3, 2, 1, 4, 1, 1, 1, 1, 3, 4, 1, 1, 1, 2, 3, 2, 2, 2, 3, 2, 2, 3, 3, 3, 1, 2, 2, 1, 1, 1, 3, 1, 3, 1, 3, 1, 3, 2, 2, 1, 2, 3, 2, 1, 1, 2, 1, 2, 3, 1, 2, 1, 1, 2, 3, 2, 2, 1, 1, 2, 3, 2, 2, 2, 2, 1, 1, 1, 1, 3, 1, 3, 2, 1, 2, 3, 1, 1, 2, 3, 2, 1, 1, 2, 1, 5, 3, 3, 2, 1, 2, 1, 3, 2, 1, 1, 1, 2, 1, 4, 2, 1, 1, 2, 1, 1, 2, 4, 2, 1, 2, 1, 2, 1, 1, 2, 2, 1, 1, 3, 3, 1, 2, 2, 1, 4, 3, 2, 1, 1, 2, 3, 1, 3, 1, 3, 3, 2, 4, 4, 1, 1, 4, 2, 2, 1, 2, 2, 3, 4, 1]
+Personal Pronoun Count: 36
+Average Word Length: 3.4158333333333335
+
+Positive Words:
+ready
+kind
+convince
+prepared
+excuse,
+Clear
+number
+better,
+like
+confidence
+trust
+effectively
+increase
+better
+giving
+safer
+relief
+create
+opportunities.
+Intense
+huge
+growth.
+better
+easier
+help.
+growth
+encouraged.
+important
+hand,
+spirit,
+engagement
+importance
+easiest
+effective
+impressive
+ensure
+protect
+increase
+increased
+ensure
+friends
+reaching
+help.
+easy
+special
+like
+healthy
+calm
+important
+peace,
+better
+important
+Engagement
+efficiently,
+ensure
+
+Negative Words:
+crisis.
+fire
+adversity
+dumbfounded
+crisis.
+crisis
+underestimated
+avoid
+crisis
+difficult
+crisis
+lack
+worse,
+fake
+crisis,
+fake
+no
+uncertainty
+crisis.
+chaos
+emergency.
+demand
+no
+crisis
+panic
+pay
+recession
+Suicide
+abuse
+depression
+ashamed
+victims
+abuse
+crisis
+crisis
+mistakes
+fight
+worry

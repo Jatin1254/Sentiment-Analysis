@@ -1,0 +1,161 @@
+Compound Score: 0.9996
+Polarity Score: 0.4825174791432344
+Positive Score: 106
+Negative Score: 37
+Subjectivity Score: 0.07578166397679827
+Average Sentence Length: 17.154545454545456
+Average Words Per Sentence: 17.154545454545456
+Complex Word Count: 335
+Percentage of Complex Words: 17.75304716481187
+Fog Index: 13.963037047742933
+Cleaned Word Count: 958
+Syllable Count Per Word: [2, 1, 1, 2, 3, 2, 1, 3, 2, 4, 1, 3, 2, 4, 1, 1, 2, 2, 3, 2, 2, 1, 2, 4, 3, 1, 1, 2, 3, 2, 1, 2, 5, 3, 1, 2, 3, 2, 3, 4, 1, 2, 2, 2, 1, 2, 4, 2, 2, 1, 1, 1, 2, 2, 2, 1, 3, 4, 2, 2, 2, 1, 1, 1, 1, 2, 2, 5, 2, 1, 1, 1, 5, 4, 4, 3, 4, 2, 3, 2, 4, 4, 2, 1, 2, 2, 3, 2, 2, 4, 2, 2, 3, 4, 2, 3, 2, 1, 3, 2, 4, 1, 3, 1, 2, 3, 1, 3, 3, 1, 3, 2, 1, 3, 2, 3, 3, 4, 1, 4, 2, 3, 3, 4, 3, 3, 4, 1, 1, 2, 2, 2, 1, 1, 4, 4, 3, 4, 3, 3, 1, 1, 1, 3, 4, 2, 2, 4, 2, 2, 2, 1, 2, 4, 2, 1, 3, 4, 2, 1, 2, 1, 2, 1, 2, 1, 3, 4, 3, 1, 1, 3, 2, 3, 1, 2, 3, 2, 2, 2, 1, 4, 2, 4, 2, 3, 2, 3, 2, 1, 1, 3, 1, 2, 2, 1, 2, 4, 2, 2, 4, 3, 3, 1, 2, 1, 2, 1, 2, 3, 4, 3, 4, 2, 4, 3, 3, 1, 3, 1, 5, 1, 3, 3, 3, 2, 3, 3, 4, 4, 3, 2, 2, 1, 2, 2, 1, 4, 2, 1, 3, 2, 1, 3, 3, 2, 3, 1, 1, 4, 4, 2, 3, 1, 3, 2, 1, 2, 3, 1, 1, 3, 1, 2, 2, 1, 5, 1, 3, 2, 2, 2, 1, 2, 2, 2, 2, 2, 1, 4, 3, 1, 5, 2, 4, 2, 4, 2, 4, 1, 3, 1, 4, 2, 1, 3, 3, 1, 4, 2, 1, 3, 2, 4, 2, 2, 1, 2, 2, 1, 3, 3, 2, 2, 1, 2, 2, 2, 1, 1, 3, 1, 2, 2, 1, 2, 3, 1, 1, 1, 1, 2, 3, 3, 4, 2, 4, 3, 4, 1, 2, 1, 2, 2, 1, 2, 1, 2, 2, 4, 2, 4, 3, 2, 3, 2, 2, 2, 2, 2, 1, 1, 4, 4, 3, 4, 1, 3, 1, 2, 2, 4, 2, 2, 3, 2, 2, 2, 4, 2, 2, 1, 3, 4, 1, 1, 1, 4, 1, 3, 2, 2, 1, 4, 1, 2, 2, 4, 2, 3, 2, 4, 3, 1, 3, 2, 2, 2, 4, 3, 2, 3, 4, 3, 3, 4, 2, 3, 5, 2, 3, 4, 2, 1, 1, 1, 1, 1, 4, 1, 2, 3, 2, 1, 3, 7, 1, 1, 1, 1, 4, 2, 1, 2, 1, 3, 2, 2, 1, 3, 3, 2, 1, 2, 1, 2, 4, 2, 4, 2, 1, 1, 1, 1, 1, 2, 2, 1, 1, 2, 3, 2, 2, 3, 1, 2, 1, 2, 3, 1, 1, 1, 1, 2, 3, 2, 3, 2, 1, 2, 2, 1, 2, 1, 2, 2, 2, 3, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 1, 2, 1, 3, 2, 1, 1, 4, 3, 3, 1, 2, 2, 2, 2, 1, 2, 1, 1, 2, 1, 3, 2, 4, 2, 4, 1, 2, 3, 1, 2, 5, 2, 1, 2, 4, 3, 2, 2, 1, 4, 1, 1, 4, 2, 1, 4, 1, 4, 2, 3, 1, 2, 1, 2, 1, 2, 1, 1, 2, 1, 3, 4, 1, 2, 2, 1, 1, 2, 1, 2, 1, 4, 1, 1, 2, 3, 1, 1, 4, 2, 2, 2, 1, 3, 3, 4, 1, 1, 4, 1, 2, 2, 2, 1, 2, 2, 1, 1, 3, 1, 1, 4, 2, 1, 2, 2, 3, 4, 1, 1, 2, 1, 3, 3, 2, 2, 4, 3, 3, 1, 5, 2, 1, 3, 2, 6, 2, 1, 2, 6, 3, 2, 3, 3, 3, 4, 3, 2, 1, 3, 2, 3, 2, 1, 2, 1, 3, 3, 3, 1, 1, 2, 1, 1, 2, 3, 1, 2, 2, 6, 2, 2, 1, 3, 3, 2, 1, 1, 3, 3, 1, 4, 2, 1, 2, 2, 2, 2, 2, 1, 4, 1, 1, 1, 3, 1, 1, 4, 5, 2, 1, 6, 1, 1, 4, 1, 1, 3, 4, 4, 1, 2, 2, 4, 2, 1, 2, 3, 2, 3, 5, 4, 5, 4, 2, 3, 1, 1, 2, 1, 2, 2, 3, 2, 3, 1, 1, 2, 3, 3, 4, 3, 3, 3, 1, 4, 3, 2, 1, 1, 3, 3, 1, 2, 1, 4, 3, 3, 2, 1, 2, 1, 2, 1, 3, 4, 3, 1, 1, 3, 4, 4, 1, 2, 1, 3, 2, 1, 2, 2, 3, 2, 1, 2, 1, 3, 2, 1, 1, 2, 2, 1, 1, 1, 2, 1, 1, 3, 2, 2, 2, 1, 3, 2, 1, 1, 2, 1, 1, 4, 3, 2, 2, 3, 3, 4, 3, 3, 1, 2, 2, 2, 2, 5, 2, 2, 2, 3, 2, 4, 2, 4, 4, 4, 3, 1, 1, 1, 2, 2, 4, 5, 1, 4, 3, 1, 3, 3, 2, 3, 1, 2, 2, 1, 3, 1, 1, 3, 1, 1, 3, 3, 2, 2, 3, 1, 1, 3, 3, 2, 2, 3, 4, 2, 1, 2, 5, 1, 1, 3, 3, 1, 4, 2, 1, 1, 2, 4, 2, 3, 2, 3, 3, 1, 3, 4, 2, 3, 2, 2, 1, 2, 1, 2, 1, 3, 2, 1, 3, 2, 2, 2, 2, 2, 3, 2, 4, 2, 3, 2, 1, 4, 1, 1, 1, 2, 4, 4, 2, 3, 4, 2, 1, 2, 2, 3, 1, 2, 2, 3, 2, 2, 1, 1, 3, 2, 1, 1, 1, 1, 3, 1, 1, 2, 1]
+Personal Pronoun Count: 10
+Average Word Length: 3.4096449390567036
+
+Positive Words:
+important
+popular
+impress.
+true
+intelligence
+intelligent
+satisfy
+intelligence
+intelligent
+intelligent
+best
+intelligent
+Yes!
+best
+intelligent
+ideal
+intelligent
+intelligent
+ability
+intelligence.
+intelligence
+intelligence
+ideal
+intelligent
+greater
+easily
+validated.
+solve
+better
+best
+best
+intelligence
+intelligence
+intelligence
+ideal
+intelligence?
+advanced,
+better
+certain
+intelligence
+ability
+solve
+intelligence
+validate
+intelligence?
+best
+intelligence
+solve
+intelligent
+solve
+easily
+validated
+ideal
+intelligence,
+validate
+giving
+valuable
+important
+challenge
+solving
+intelligence
+solve.
+solve
+kind
+solved
+solve
+solved
+solve
+solve
+intelligence.
+solved
+kind
+solve
+certain
+kind
+kind
+intelligence.
+intelligent
+intelligence
+reached
+useful
+reached
+intelligence.
+intelligence
+kind
+intelligence
+ability
+meaningful
+easily
+easily
+better
+better
+ability
+easily
+good
+good
+meaningful
+help.
+help
+useful
+like
+useful
+valuable
+solve
+help
+beauty
+
+Negative Words:
+ignored
+confusion
+lies
+fool
+criticism
+no
+problems,
+defeated
+defeat
+problems.
+problems.
+problem.
+problem.
+problems
+problem
+problem
+problem.
+problem
+problems
+problems
+problem?
+problems
+problems,
+problem
+problems.
+problem
+problems
+problem,
+bad.
+bad.
+costly.
+uncertainty.
+uncertainty
+uncertainty
+pressure,
+problem!
+lies
